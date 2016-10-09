@@ -2,7 +2,7 @@
 layout: home
 ---
 # Bio-economics of Mutualism
-### 1-3 November 2017
+###1-3 November 2017
 
 ### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
