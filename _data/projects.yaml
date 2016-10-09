@@ -1,0 +1,44 @@
+- title: Erol Akçay
+  url: https://erolakcay.wordpress.com
+  image: https://erolakcay.files.wordpress.com/2013/03/cropped-akcaycrop1.jpg
+  completed: true
+
+- title: Judith L. Bronstein
+  url: http://www.eebweb.arizona.edu/Faculty/Bronstein/Bronstein_Lab/HOME.html
+  image: http://www.eebweb.arizona.edu/Faculty/Bronstein/Bronstein_Lab/PEOPLE_files/JudieBronstein.jpg
+  completed: true
+
+- title: Redouan Bshary
+  url: https://www2.unine.ch/ethol/
+  image: http://www2.unine.ch/repository/default/content/sites/ethol/files/shared/images/red1comic.jpg/width185crop
+  completed: true
+
+- title: Chaitanya Gokhale
+  url: http://gokhalechaitanya.github.io
+  image:
+  completed: false
+
+- title: Peter Hammerstein
+  url: https://itb.biologie.hu-berlin.de/wiki/groups/peter/start
+  image: https://www.biologie.hu-berlin.de/en/gruppenseiten-en/sfb618/people/hammerstein_peter/P_FOTO_normal
+  completed: true
+
+- title: John McNamara
+  url: http://www.maths.bris.ac.uk/~john/
+  image: https://royalsociety.org/~/media/people/fellows/MCN00025-John-McNamara.jpg?w=300
+  completed: true
+
+- title: Ronald Noë
+  url: https://sites.google.com/site/ronaldnoe/
+  image: https://sites.google.com/site/ronaldnoe/_/rsrc/1428587033962/RN-home/Ronald%20Noë%20%28MAR13%29_20130304_0248%20%2810x13%29.jpg?height=320&width=240
+  completed: true
+
+- title: Jorge Peña
+  url: https://jorgeapenas.wordpress.com/
+  image: https://jorgeapenas.files.wordpress.com/2016/01/jp.jpg?w=300&h=300
+  completed: true
+
+- title: Olivia Roth
+  url: http://www.geomar.de/mitarbeiter/fb3/ev/oroth/
+  image: http://www.geomar.de/typo3temp/pics/homepage_2_966f96f150.jpg
+  completed: true

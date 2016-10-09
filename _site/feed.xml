@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000//" rel="alternate" type="text/html" /><updated>2016-10-07T11:46:14+02:00</updated><id>http://127.0.0.1:4000//</id><title type="html">Bionomics</title><subtitle>symbiosis | cheating | markets | stability</subtitle><entry><title type="html">Schedule</title><link href="http://127.0.0.1:4000//Schedule/" rel="alternate" type="text/html" title="Schedule" /><published>2016-07-28T00:00:00+02:00</published><updated>2016-07-28T00:00:00+02:00</updated><id>http://127.0.0.1:4000//Schedule</id><content type="html" xml:base="http://127.0.0.1:4000//Schedule/">&lt;h1 id=&quot;schedule&quot;&gt;Schedule&lt;/h1&gt;
+
+&lt;p&gt;This will be filled in as we get closer to the date&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In this program we experiment with a new format where early to middle career researchers will be giving plenary talks (1 hour) while established researchers in the field will give shorter talks (30 minutes).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;wednesday&quot;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;1200-1250 Snack/lunch&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1250-1300 Welcome address&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1300-1400 Plenary I&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1400-1500 Short Talks (2)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1500-1530 Coffee&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1530-1730 Short Talks (4)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;thursday&quot;&gt;Thursday&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;0900-1000 Plenary II&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1000-1030  Coffee&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1030-1230  Short Talks (4)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1230-1400  Lunch&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1400-1500  Plenary III&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1500-1600  Short talks (2)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1600-1900  Social event - Dinner&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1900-  Round table discussion&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;friday&quot;&gt;Friday&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;0900-1000 Plenary IV
+    &lt;ul&gt;
+      &lt;li&gt;1000-1030 Coffee&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1030-1230 Short Talks (4)
+    &lt;ul&gt;
+      &lt;li&gt;1230-1400 Warp-up Lunch&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><category term="max planck" /><category term="venue" /><summary type="html">Whats going to happen?</summary></entry><entry><title type="html">Venue</title><link href="http://127.0.0.1:4000//venue/" rel="alternate" type="text/html" title="Venue" /><published>2016-05-29T00:00:00+02:00</published><updated>2016-05-29T00:00:00+02:00</updated><id>http://127.0.0.1:4000//venue</id><content type="html" xml:base="http://127.0.0.1:4000//venue/">&lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This theme is Jekyll port of &lt;a href=&quot;http://vangeltzo.com/&quot;&gt;vangeltzo.com&lt;/a&gt; (by &lt;a href=&quot;https://github.com/srekoble&quot;&gt;Vangelis Tzortzis&lt;/a&gt;). I couldn’t stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Halve&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;installation-and-quick-usage&quot;&gt;Installation and Quick Usage&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/TaylanTatli/Halve/fork&quot;&gt;Halve repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;index.md&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add a logo with a small one to &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder. (eg. &lt;code class=&quot;highlighter-rouge&quot;&gt;logo.png&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;logo-small.png&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;Remove sample posts from &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder and add yours.&lt;/li&gt;
+  &lt;li&gt;Remove/Change sample images from &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder.&lt;/li&gt;
+  &lt;li&gt;Change repo name to &lt;code class=&quot;highlighter-rouge&quot;&gt;YourUserName.github.io&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s all.&lt;/p&gt;
+
+&lt;p&gt;If you want to make a &lt;strong&gt;Project Page&lt;/strong&gt;, you have to use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch. For &lt;strong&gt;Personal Page&lt;/strong&gt;; &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. More info &lt;a href=&quot;https://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;preview&quot;&gt;Preview&lt;/h2&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/halve-home-image.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/post-image-halve-1.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/post-image-halve-2.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Screenshots of Halve Theme&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/post-image-halve-3.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/post-image-halve-6.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;http://127.0.0.1:4000//images/post-image-halve-4.png&quot;&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Mobile view of Halve Theme&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;See a &lt;a href=&quot;http://taylantatli.github.io/Halve&quot;&gt;live version of Halve&lt;/a&gt; hosted on GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;site-setup&quot;&gt;Site Setup&lt;/h2&gt;
+&lt;p&gt;A quick checklist of the files you’ll want to edit to get up and running.&lt;/p&gt;
+
+&lt;h3 id=&quot;site-wide-configuration&quot;&gt;Site Wide Configuration&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; is your friend. Open it up and personalize it. Most variables are self explanatory but here’s an explanation of each if needed:&lt;/p&gt;
+
+&lt;h4 id=&quot;title&quot;&gt;title&lt;/h4&gt;
+
+&lt;p&gt;The title of your site… shocker!&lt;/p&gt;
+
+&lt;p&gt;Example &lt;code class=&quot;highlighter-rouge&quot;&gt;title: My Awesome Site&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;description&quot;&gt;description&lt;/h4&gt;
+
+&lt;p&gt;The description to use for meta tags and homepage.&lt;/p&gt;
+
+&lt;h4 id=&quot;url&quot;&gt;url&lt;/h4&gt;
+
+&lt;p&gt;Used to generate absolute urls in &lt;code class=&quot;highlighter-rouge&quot;&gt;sitemap.xml&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and for generating canonical URLs in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. When developing locally either comment this out or use something like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt; so all assets load properly. &lt;em&gt;Don’t include a trailing &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Halve&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://localhost:4000&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;//cooldude.github.io&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;logo&quot;&gt;logo&lt;/h4&gt;
+&lt;p&gt;Your site’s logo. It will be shown on homepage. Also used for twitter meta tags.&lt;/p&gt;
+
+&lt;h4 id=&quot;background&quot;&gt;background&lt;/h4&gt;
+&lt;p&gt;Here we will set images for left block. Example:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;background:
+  homepage: images/home.png
+  post-list: images/unsplash-image-10.jpg
+  default-post: images/unsplash-gallery-image-3.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;homepage&lt;/dt&gt;
+  &lt;dd&gt;Is for homepage background image.&lt;/dd&gt;
+  &lt;dt&gt;post-list&lt;/dt&gt;
+  &lt;dd&gt;Is for posts list page background image.&lt;/dd&gt;
+  &lt;dt&gt;default-post&lt;/dt&gt;
+  &lt;dd&gt;Is for posts' default background image. It will be shown for every posts that don't specify any image from post's YAML front matter.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;projects-overlay&quot;&gt;Projects Overlay&lt;/h3&gt;
+
+&lt;p&gt;To set what image links appear in the overlay menu edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;. Use the following format to set the URL, title, image and project status for as many links as you’d like. If you set &lt;code class=&quot;highlighter-rouge&quot;&gt;completed&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt; like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: false&lt;/code&gt;, it won’t be clickable until you set it true like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: true&lt;/code&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Moon Jekyll Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Moon&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Ramme Jekyll Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Ramme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Daisy Pelican Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Daisy-Pelican-Theme/&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Block Icon Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://github.com/TaylanTatli/Block-Icon-Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;
+
+&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Start Page&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/StartPage/&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;layouts-and-content&quot;&gt;Layouts and Content&lt;/h2&gt;
+
+&lt;p&gt;Halve Theme use &lt;a href=&quot;https://github.com/penibelst/jekyll-compress-html&quot;&gt;Jekyll Compress&lt;/a&gt; to compress html output. But it can cause errors if you use “linenos” (line numbers). I suggest don’t use line numbers for codes, because it won’t look good with this theme, also i didn’t give a proper style for them. If you insist to use line numbers, just remove &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: compress&lt;/code&gt; string from layouts. It will disable compressing.&lt;/p&gt;
+
+&lt;h3 id=&quot;images-for-posts&quot;&gt;Images for Posts&lt;/h3&gt;
+
+&lt;p&gt;You can set left block image per post. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;image: some link&lt;/code&gt; to your post’s front matter. If you don’t set this, default post image will be used from &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;image: /assets/img/some-image.png
+or
+image: http://example.com/some-image.png
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;This also will be used for twitter card:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/post-image-halve-5.png&quot; alt=&quot;Halve Twitter Card&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/TaylanTatli/Halve/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="venue" /><category term="schleswig holstein" /><category term="max planck" /><summary type="html">Where is it?</summary></entry><entry><title type="html">Registration</title><link href="http://127.0.0.1:4000//registration/" rel="alternate" type="text/html" title="Registration" /><published>2016-05-22T00:00:00+02:00</published><updated>2016-05-22T00:00:00+02:00</updated><id>http://127.0.0.1:4000//registration</id><content type="html" xml:base="http://127.0.0.1:4000//registration/">&lt;h2 id=&quot;registration-fees&quot;&gt;Registration fees&lt;/h2&gt;
+
+&lt;p&gt;We need to charge a minimal fee of &lt;em&gt;XX Euros&lt;/em&gt; for this workshop which includes food and lodging.&lt;/p&gt;
+
+&lt;h2 id=&quot;registration-procedure&quot;&gt;Registration procedure&lt;/h2&gt;
+
+&lt;p&gt;Since there are a limited number of spaces available for attending this workshop, registration is required.
+Please do so by sending an email with the following content (appropriately amended) to bionomics [at] evolbio [dot] mpg [dot] de&lt;/p&gt;
+
+&lt;h3 id=&quot;subject-bionomics-registration&quot;&gt;Subject: Bionomics registration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Last name, First name&lt;/li&gt;
+  &lt;li&gt;Affiliation&lt;/li&gt;
+  &lt;li&gt;Would like to give a talk/present poster (optional)
+    &lt;ul&gt;
+      &lt;li&gt;Title&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please note the following details&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;have any food allergies/restrictions&lt;/li&gt;
+  &lt;li&gt;require child care&lt;/li&gt;
+  &lt;li&gt;Other requirements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I would like to make payment by&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cash&lt;/li&gt;
+  &lt;li&gt;Credit card (details will be emailed)&lt;/li&gt;
+  &lt;li&gt;Bank Transfer (details will be emailed)&lt;/li&gt;
+&lt;/ol&gt;</content><category term="payment" /><category term="fees" /><category term="registration" /><summary type="html">Registration details required</summary></entry></feed>
