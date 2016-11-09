@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /home/
+
+- title: Speakers
+  url: /articles/
+
+- title: Schedule
+  url: /blog/
+
+- title: Venue & Registration
+  url: /theme-setup/
+
+- title: Search
+  url: /search/
