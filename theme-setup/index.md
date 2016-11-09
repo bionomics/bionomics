@@ -43,16 +43,16 @@ Some details about the Max Planck Institute for Evolutionary Biology
 
 
 ```bash
-Presentation Tools/
-├── WindowsPC/
-|    ├── OS version    # prompt to install a modern browser for < IE9
+Presentation Tools
+├── WindowsPC
+|    ├── OS version
 |    ├── Office version
 ├── Mac
 |    ├── OS version
-|    └── Keynote Version               # main content with sidebar for author/post details
+|    └── Keynote Version
 ├── External adaptors
-|    ├── HDMI    # prompt to install a modern browser for < IE9
-|    ├── VGA                     # Sass stylesheets              # theme setup page. safe to remove
+|    ├── HDMI
+|    ├── VGA
 ```
 
 ---
