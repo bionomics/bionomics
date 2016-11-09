@@ -16,7 +16,7 @@ location:
 * Table of Contents
 {:toc}
 
-{% google_map width="100%" show_popup="false" zoom="10" %}
+<!-- {% google_map width="100%" show_popup="false" zoom="10" %} -->
 
 ## Venue Details
 
