@@ -6,9 +6,6 @@ modified: 2016-09-12T08:42:37-04:00
 image:
   feature: IMG_3937.jpg
   credit: Chaitanya Gokhale
-location:
-    latitude: 54.160536
-    longitude: 10.435403
 ---
 
 **Useful information**.
