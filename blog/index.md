@@ -19,7 +19,7 @@ search_omit: true
 * Item two
 * Item three -->
 
-## Schedule
+## Coming Soon
 
 | Speaker | Title | Time |
 |:--------|:-------:|--------:|

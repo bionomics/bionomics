@@ -15,92 +15,54 @@ image:
 
 ## Venue Details
 
-So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+Some details about the Max Planck Institute for Evolutionary Biology
 
-If you are creating a new Jekyll site using So Simple follow these steps:
+1. Point1
+2. Point2
+3. Point3
+4. Point4
 
-1. Fork the [So Simple repo](http://github.com/mmistakes/so-simple-theme/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install Jekyll and all dependencies.
-4. Update `_config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
-
-If you want to use So Simple with an existing Jekyll site follow these steps:
-
-1. [Download So Simple](https://github.com/mmistakes/so-simple-theme/archive/master.zip) and unzip.
-2. Rename `so-simple-theme-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install Jekyll and all dependencies.
-4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
-6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below.
-
-**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
+**Arrival tip::** Some additional stuff.
 {: .notice}
 
 ---
 
 ## Arrival
 
-The preferred method for running Jekyll is with `bundle exec`, but if you're willing to deal gem conflicts feel free to go cowboy with a `jekyll build` or `jekyll serve`.
 
 > In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
 >
 >However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
 
-```bash
-bundle exec jekyll build
-
-bundle exec jekyll serve
-```
-
+1. Air
+2. Train
+3. Boat
 ---
 
 ## Presentation Tools
 
-How So Simple is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
 ```bash
-so-simple-theme/
-├── _includes/
-|    ├── browser-upgrade.html    # prompt to install a modern browser for < IE9
-|    ├── disqus-comments.html    # Disqus comments script
-|    ├── feed-footer.html        # post footers in feed
-|    ├── footer.html             # site footer
-|    ├── head.html               # site head
-|    ├── navigation.html         # site top navigation
-|    ├── open-graph.html         # meta data for Open Graph and Twitter cards
-|    └── scripts.html            # site scripts
-├── _layouts/
-|    ├── page.html               # single column page layout
-|    └── post.html               # main content with sidebar for author/post details
-├── _posts/                      # MarkDown formatted posts
-├── _sass/                       # Sass stylesheets
-├── about/                       # sample about page
-├── articles/                    # sample articles category page
-├── assets/
-|    ├── css/                    # compiled stylesheets
-|    ├── fonts/                  # webfonts
-|    └── js/
-|        ├── _main.js            # main JavaScript file, plugin settings, etc
-|        ├── plugins/            # scripts and jQuery plugins to combine with _main.js
-|        ├── scripts.min.js      # concatenated and minified _main.js + plugin scripts
-|        └── vendor/             # vendor scripts to leave alone and load as is
-├── blog/                        # sample blog category page
-├── images/                      # images for posts and pages
-├── 404.md                       # 404 page
-├── feed.xml                     # Atom feed template
-├── index.md                     # sample homepage. lists 5 latest posts
-└── theme-setup/                 # theme setup page. safe to remove
+Presentation Tools/
+├── WindowsPC/
+|    ├── OS version    # prompt to install a modern browser for < IE9
+|    ├── Office version
+├── Mac
+|    ├── OS version
+|    └── Keynote Version               # main content with sidebar for author/post details
+├── External adaptors
+|    ├── HDMI    # prompt to install a modern browser for < IE9
+|    ├── VGA                     # Sass stylesheets              # theme setup page. safe to remove
 ```
 
 ---
 
 ## Registration
 
-A quick checklist of the files you'll want to edit to get up and running.
+Registration fees and whats included
 
 ### Miscellaneous
 
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
 
 <!-- #### title
 
