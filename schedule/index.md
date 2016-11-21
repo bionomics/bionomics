@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Program Schedule"
 search_omit: true
 ---
 
@@ -21,7 +21,7 @@ search_omit: true
 
 ## Coming Soon
 
-| Speaker | Title | Time |
+<!-- | Speaker | Title | Time |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -30,4 +30,4 @@ search_omit: true
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3   |
-{: .table}
+{: .table} -->

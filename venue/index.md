@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue & Registration
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
+excerpt: "Instructions on how to register and arrive at the MPI."
 modified: 2016-09-12T08:42:37-04:00
 image:
   feature: IMG_3937.jpg
@@ -10,12 +10,14 @@ image:
 
 **Useful information**.
 
+Registration opens in **2017**
+
 * Table of Contents
 {:toc}
 
 ## Venue Details
 
-Some details about the Max Planck Institute for Evolutionary Biology
+Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
 1. Point1
 2. Point2
