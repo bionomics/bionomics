@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Biology and Economics of mutualisms
+title: 
 excerpt: "Workshop on the biology and economics of mutualisms being held at the Max Planck Institute for Evolutionary Biology"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
