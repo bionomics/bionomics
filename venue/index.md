@@ -62,8 +62,39 @@ Presentation Tools
 
 Registration fees will include the food and accommodation for the duration of the conference.
 
-### Miscellaneous
+## Organisers
 
+the conference is being organised by
+
+#### Chaitanya S. Gokhale
+![Gokhale]({{ site.url }}/images/cg.jpg)
+{: .pull-right}
+
+Research Group Leader - Theoretical E-co-evolutionary dynamics
+Department of Evolutionary Theory
+Max Planck Institute for Evolutionary Biology,
+Plön, Germany
+
+<div markdown="0"><a href="http://gokhalechaitanya.github.io" class="btn">Claire's homepage</a></div>
+
+and
+
+#### Jorge Peña
+
+![Pena]({{ site.url }}/images/jp.jpg)
+{: .pull-right}
+
+Evolutionary Ecology of Marine Fishes
+GEOMAR Helmholtz Centre for Ocean Research Kiel
+Düsternbrooker Weg 20
+24105 Kiel, Germany
+
+<div markdown="0"><a href="https://jorgeapenas.wordpress.com" class="btn">Claire's homepage</a></div>
+
+
+### Contact email
+
+***bionomics email address soon!***
 
 <!-- #### title
 
