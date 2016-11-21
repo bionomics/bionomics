@@ -19,10 +19,9 @@ Registration opens in **2017**
 
 Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
-1. Point1
-2. Point2
-3. Point3
-4. Point4
+1. Map of Ploen
+2. Child care facility - maybe possible, enquire for details.
+3. ...
 
 **Arrival tip::** Some additional stuff.
 {: .notice}
@@ -32,13 +31,13 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 ## Arrival
 
 
-> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
->
->However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
+> Arrival to the Institute can be tricky and we would advise to arrive the previous evening in Plön
+>Do not hesitate to contact us if any assistance is required.
 
 1. Air
 2. Train
 3. Boat
+
 ---
 
 ## Presentation Tools
@@ -61,7 +60,7 @@ Presentation Tools
 
 ## Registration
 
-Registration fees and whats included
+Registration fees will include the food and accommodation for the duration of the conference.
 
 ### Miscellaneous
 
