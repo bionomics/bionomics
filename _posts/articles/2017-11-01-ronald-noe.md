@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ronald Noe
+title: Ronald Noë
 excerpt: "Title of talk"
 modified: 2016-06-01T14:17:25-04:00
 categories: articles
