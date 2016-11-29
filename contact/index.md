@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Organisers
+title: Contact
 excerpt: "Details of organisers"
 modified: 2016-09-12T08:42:37-04:00
-image:
-  feature: IMG_3937.jpg
-  credit: Chaitanya Gokhale
 ---
 
 ## Organisers
