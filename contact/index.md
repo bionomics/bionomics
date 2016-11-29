@@ -1,66 +1,46 @@
 ---
 layout: page
-title: Venue & Registration
-excerpt: "Instructions on how to register and arrive at the MPI."
+title: Organisers
+excerpt: "Details of organisers"
 modified: 2016-09-12T08:42:37-04:00
 image:
   feature: IMG_3937.jpg
   credit: Chaitanya Gokhale
 ---
 
-**Useful information**.
+## Organisers
 
-Registration opens in **2017**
+the conference is being organised by
 
-* Table of Contents
-{:toc}
+#### Chaitanya S. Gokhale
+![Gokhale]({{ site.url }}/images/cg.jpg)
+{: .pull-right}
 
-## Venue Details
+Research Group Leader - Theoretical E-co-evolutionary dynamics
+Department of Evolutionary Theory
+Max Planck Institute for Evolutionary Biology,
+Plön, Germany
 
-Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
+<div markdown="0"><a href="http://gokhalechaitanya.github.io" class="btn">Chaitanya's homepage</a></div>
 
-1. Map of Ploen
-2. Child care facility - maybe possible, enquire for details.
-3. ...
+and
 
-**Arrival tip::** Some additional stuff.
-{: .notice}
+#### Jorge Peña
 
----
+![Pena]({{ site.url }}/images/jp.jpg)
+{: .pull-right}
 
-## Arrival
+Evolutionary Ecology of Marine Fishes
+GEOMAR Helmholtz Centre for Ocean Research Kiel
+Düsternbrooker Weg 20
+24105 Kiel, Germany
 
-
-> Arrival to the Institute can be tricky and we would advise to arrive the previous evening in Plön
->Do not hesitate to contact us if any assistance is required.
-
-1. Air
-2. Train
-3. Boat
-
----
-
-## Presentation Tools
+<div markdown="0"><a href="https://jorgeapenas.wordpress.com" class="btn">Jorge's homepage</a></div>
 
 
-```bash
-Presentation Tools
-├── WindowsPC
-|    ├── OS version
-|    ├── Office version
-├── Mac
-|    ├── OS version
-|    └── Keynote Version
-├── External adaptors
-|    ├── HDMI
-|    ├── VGA
-```
+### Contact email
 
----
-
-## Registration
-
-Registration fees will include the food and accommodation for the duration of the conference.
+***bionomics email address soon!***
 
 <!-- #### title
 
