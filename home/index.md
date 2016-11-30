@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #### 1-3 November 2017
 
 ### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
-#### Plön, Germany
+### Plön, Germany
 
 
 Some ecosystems fail while others thrive.
