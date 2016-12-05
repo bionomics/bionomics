@@ -61,16 +61,18 @@ Presentation Tools
 
 ## Registration
 
-Registration will remain open from **January 2017** till March 2017.
+If you are interested in presenting a short-talk do register starting **January 2017**.
+Registrations will be open till **31st March 2017** and we will inform the selected participants in April.
 
-Participants are requested to register for short-talks (30 mins) with the following information
+Interested participants are requested to register for short-talks (30 mins) with the following information
 
 - Presenters name, affiliation
 - title
 - abstract
 
-Email address for registration and nominal fees will be announced in January, 2017.
-Registration fees will include the food and accommodation for the complete duration of the conference.
+**Email address for registration and nominal fees will be announced in January, 2017.**
+
+Registration fees will include cover food and accommodation for the complete duration of the conference.
 
 <!-- #### title
 
