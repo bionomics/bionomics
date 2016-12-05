@@ -19,8 +19,8 @@ search_omit: true
 * Item two
 * Item three -->
 
-## Coming Soon
-
+## Will be announced in January
+<!--
 | Time | Speaker | Title |
 |:--------|:-------:|--------:|
 | 0850   | Welcome address   |   |
@@ -61,4 +61,4 @@ search_omit: true
 | 1230 - 1400  | Lunch   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3   |
-{: .table}
+{: .table} -->

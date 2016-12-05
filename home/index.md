@@ -16,3 +16,24 @@ At the heart of thriving ecosystems is often an intricate network of collaborati
 In particular, how mutualistic interactions can be robust against invading cheats has been a matter of debate and has generated a large body of theory and novel experimental approaches testing new ideas.
 
 Researchers from different fields are actively working towards the general understanding of mutualism. The community now consists of experimental and theoretical biologists, economists, physicists, and mathematicians. After the initial surge of theoretical developments, it only makes sense that the theories are reviewed, and further directions planned out by the community.
+
+
+
+### Registration
+
+We are experimenting with a novel format where young researchers will be presenting their work as plenary talks.
+Established researchers have happily agreed to present their extensive work in a short talk format.
+Do check out the speakers list as it promises to be an exciting lineup.
+
+If you are interested in also presenting a short-talk do register starting **January 2017**.
+Registrations will be open till **31st March 2017** and we will inform the selected participants in April.
+
+Interested participants are requested to register for short-talks (30 mins) with the following information
+
+- Presenters name, affiliation
+- title
+- abstract
+
+**Email address for registration and nominal fees will be announced in January, 2017.**
+
+Registration fees will include the food and accommodation for the complete duration of the conference.
