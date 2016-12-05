@@ -63,12 +63,13 @@ Presentation Tools
 
 Registration will open from January 2017 till March 2017.
 
-Participants for short-talks (30 mins) are requested to register with a
+Participants are requested to register for short-talks (30 mins) with the following information
 
 - Presenters name, affiliation
 - title
 - abstract
 
+Email address for registration and nominal fees will be announced in January, 2017.
 Registration fees will include the food and accommodation for the complete duration of the conference.
 
 <!-- #### title
