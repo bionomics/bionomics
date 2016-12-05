@@ -43,7 +43,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Max Planck Institute for Evolutionary Biology \n
+  name: Max Planck Institute for Evolutionary Biology
   avatar: cg.jpg
   email: gokhale@evolbio.mpg.de
   disqus-shortname: gokhalechaitanya

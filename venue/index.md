@@ -19,11 +19,11 @@ Registration opens in **2017**
 
 Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
-1. Map of Ploen
-2. Child care facility - maybe possible, enquire for details.
+1. Map of Ploen - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
+2. Child care facility - maybe possible, do enquire for details.
 3. ...
 
-**Arrival tip::** Some additional stuff.
+**Arrival tip::** Any more informations required?
 {: .notice}
 
 ---
@@ -34,9 +34,10 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 > Arrival to the Institute can be tricky and we would advise to arrive the previous evening in Plön
 >Do not hesitate to contact us if any assistance is required.
 
-1. Air
-2. Train
-3. Boat
+1. Air - Closest International Airport is Hamburg
+3. Boat - Ferries from the Baltic arrive in Kiel or Travemünde, Lübeck
+3. Road - The Institute is located right besides the [state highway B76](http://roadnow.com/germany/cities-along-bundesstraße-76-B76). Please refer to the map above for details. It takes about 2 hours to drive from Hamburg airport to the Institute.
+4. Train - Plön lies between the train connection between Kiel and Lübeck, so you would need to pass through either of these two towns.
 
 ---
 
@@ -60,7 +61,14 @@ Presentation Tools
 
 ## Registration
 
-Registration fees will include the food and accommodation for the duration of the conference.
+Registration will open from January 2017 till March 2017.
+
+Participants for short-talks (30 mins) are requested to register with a
+* Presenters name, affiliation
+* title
+* abstract
+
+Registration fees will include the food and accommodation for the complete duration of the conference.
 
 <!-- #### title
 
