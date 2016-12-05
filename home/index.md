@@ -2,13 +2,12 @@
 layout: page
 title:
 excerpt: "Workshop on the biology and economics of mutualisms being held at the Max Planck Institute for Evolutionary Biology"
-modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-#### 1-3 November 2017
-
 ### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
-### Plön, Germany
+
+#### 1-3 November, 2017
+#### Plön, Germany
 
 
 Some ecosystems fail while others thrive.
