@@ -5,6 +5,11 @@ excerpt: "Details of organisers"
 modified: 2016-09-12T08:42:37-04:00
 ---
 
+
+> Contact
+
+A dedicated bionomics contact email address will be put up soon-ish!
+
 ## Organisers
 
 the conference is being organised by
@@ -33,11 +38,6 @@ Düsternbrooker Weg 20
 24105 Kiel, Germany
 
 <div markdown="0"><a href="https://jorgeapenas.wordpress.com" class="btn">Jorge's homepage</a></div>
-
-
-### Contact email
-
-***bionomics email address soon!***
 
 <!-- #### title
 
