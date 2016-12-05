@@ -4,9 +4,9 @@ title:
 excerpt: "Workshop on the biology and economics of mutualisms being held at the Max Planck Institute for Evolutionary Biology"
 ---
 
-### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
+### 1-3 November, 2017
 
-#### 1-3 November, 2017
+### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
 #### Plön, Germany ####
 
