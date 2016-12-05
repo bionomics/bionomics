@@ -8,7 +8,7 @@ excerpt: "Workshop on the biology and economics of mutualisms being held at the 
 
 #### 1-3 November, 2017
 
-#### Ploen, Germany
+#### Plön, Germany ####
 
 
 Some ecosystems fail while others thrive.

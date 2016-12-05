@@ -61,7 +61,7 @@ Presentation Tools
 
 ## Registration
 
-Registration will open from January 2017 till March 2017.
+Registration will remain open from **January 2017** till March 2017.
 
 Participants are requested to register for short-talks (30 mins) with the following information
 
