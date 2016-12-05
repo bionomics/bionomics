@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: 
+title:
 locale: en_US
 description: The biology and economics of mutualisms
 logo: site-logo.png
@@ -43,10 +43,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Chaitanya S. Gokhale
-  avatar: bio-photo.jpg
+  name: Max Planck Institute for Evolutionary Biology \n
+  avatar: cg.jpg
   email: gokhale@evolbio.mpg.de
-  disqus-shortname:
+  disqus-shortname: gokhalechaitanya
   twitter: #username
   facebook: #username
   github: #username
