@@ -14,7 +14,7 @@
 	<key>BackgroundGraphic</key>
 	<dict>
 		<key>Bounds</key>
-		<string>{{0, 0}, {288, 288}}</string>
+		<string>{{0, 0}, {400, 400}}</string>
 		<key>Class</key>
 		<string>SolidGraphic</string>
 		<key>ID</key>
@@ -38,7 +38,7 @@
 	<key>CanvasOrigin</key>
 	<string>{0, 0}</string>
 	<key>CanvasSize</key>
-	<string>{288, 288}</string>
+	<string>{400, 400}</string>
 	<key>ColumnAlign</key>
 	<integer>1</integer>
 	<key>ColumnSpacing</key>
@@ -55,7 +55,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{30.179153942169663, 20.996210358358724}, {216.36364746093784, 216.36365855823954}}</string>
+			<string>{{71.922369533022291, 33.99999987015984}, {254.17550538653944, 254.17550564621976}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -99,7 +99,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{19.179146193444168, 106.90484922281496}, {160.09091186523438, 160.09891969808348}}</string>
+			<string>{{58.999999999999915, 134.92208439984793}, {188.06849885909733, 188.07791560015215}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -136,7 +136,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{108.72994995117188, 105.9962158203125}, {160.09091186523438, 160.09089660644531}}</string>
+			<string>{{164.20075773269937, 133.85465760702726}, {188.06849885909733, 188.0684903875725}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -168,6 +168,43 @@
 				<dict>
 					<key>Width</key>
 					<real>2</real>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>VerticalPad</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{5.5, 5.5}, {389, 389}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>29</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>1</string>
+					</dict>
+					<key>Width</key>
+					<real>3</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -224,7 +261,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-12-05 16:17:34 +0000</string>
+	<string>2016-12-05 16:28:49 +0000</string>
 	<key>Modifier</key>
 	<string>Chaitanya Gokhale</string>
 	<key>NotesVisible</key>
@@ -305,7 +342,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{28, 176}, {1892, 981}}</string>
+		<string>{{28, -1}, {1892, 981}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -319,7 +356,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-735, -275}, {1757, 839}}</string>
+		<string>{{-679, -219}, {1757, 839}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
