@@ -10,7 +10,7 @@ image:
 
 **Useful information**.
 
-Registration opens in **2017**
+Registration opens in **January 2017**
 
 * Table of Contents
 {:toc}
@@ -21,7 +21,6 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 
 1. Map of Plön - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
 2. Child care facility - maybe possible, do enquire for details.
-3. ...
 
 **Arrival tip::** Any more information required?
 {: .notice}
