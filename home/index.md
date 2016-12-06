@@ -49,6 +49,14 @@ Registration fees will include cover food and accommodation for the complete dur
 
 [John McNamara](http://www.bristol.ac.uk/maths/people/john-m-mcnamara/index.html) (University of Bristol)
 
+
+# Organisers
+
+[Chaitanya S. Gokhale](http://gokhalechaitanya.github.io/) (Max Planck Institute for Evolutionary Biology)
+
+[Jorge Peña](https://jorgeapenas.wordpress.com/) (GEOMAR Helmholtz Centre for Ocean Research Kiel)
+
+
 [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/) (University of Basel)
 
 [Ronald Noë](https://sites.google.com/site/ronaldnoe/) (University of Strasbourg)
