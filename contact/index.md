@@ -19,9 +19,11 @@ The conference is being organised by
 {: .pull-right}
 
 Research Group Leader - Theoretical Eco-evolutionary dynamics  
+
 Department of Evolutionary Theory  
-Max Planck Institute for Evolutionary Biology,  
-Plön, Germany
+Max Planck Institute for Evolutionary Biology
+August-Thienemann-Str. 2,
+24306 Plön, Germany
 
 <div markdown="0"><a href="http://gokhalechaitanya.github.io" class="btn">Chaitanya's homepage</a></div>
 
@@ -32,9 +34,11 @@ and
 ![Pena]({{ site.url }}/images/jp.jpg)
 {: .pull-right}
 
-Postdoc - Evolutionary Ecology of Marine Fishes Research Unit  
-GEOMAR Helmholtz Centre for Ocean Research Kiel  
-Düsternbrooker Weg 20  
+Postdoc
+
+Evolutionary Ecology of Marine Fishes Research Unit
+GEOMAR Helmholtz Centre for Ocean Research
+Düsternbrooker Weg 20
 24105 Kiel, Germany
 
 <div markdown="0"><a href="https://jorgeapenas.wordpress.com" class="btn">Jorge's homepage</a></div>
