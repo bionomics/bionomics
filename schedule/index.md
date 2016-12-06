@@ -19,7 +19,7 @@ search_omit: true
 * Item two
 * Item three -->
 
-## Will be announced in January, 2017
+## Will be announced in April, 2017
 <!--
 | Time | Speaker | Title |
 |:--------|:-------:|--------:|
