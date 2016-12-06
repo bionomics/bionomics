@@ -8,17 +8,17 @@ modified: 2016-09-12T08:42:37-04:00
 
 > Contact
 
-A dedicated bionomics contact email address will be put up soon-ish!
+A dedicated bionomics contact email address will be put up soon.
 
 ## Organisers
 
-the conference is being organised by
+The conference is being organised by
 
 #### Chaitanya S. Gokhale
 ![Gokhale]({{ site.url }}/images/cg.jpg)
 {: .pull-right}
 
-Research Group Leader - Theoretical E-co-evolutionary dynamics  
+Research Group Leader - Theoretical Eco-evolutionary dynamics  
 Department of Evolutionary Theory  
 Max Planck Institute for Evolutionary Biology,  
 Plön, Germany
@@ -32,7 +32,7 @@ and
 ![Pena]({{ site.url }}/images/jp.jpg)
 {: .pull-right}
 
-Evolutionary Ecology of Marine Fishes  
+Postdoc - Evolutionary Ecology of Marine Fishes Research Unit  
 GEOMAR Helmholtz Centre for Ocean Research Kiel  
 Düsternbrooker Weg 20  
 24105 Kiel, Germany
