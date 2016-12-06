@@ -19,7 +19,7 @@ Registration opens in **2017**
 
 Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
-1. Map of Ploen - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
+1. Map of Plön - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
 2. Child care facility - maybe possible, do enquire for details.
 3. ...
 
@@ -47,11 +47,11 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 ```bash
 Presentation Tools
 ├── WindowsPC
-|    ├── OS version
-|    ├── Office version
+|    ├── OS version ...
+|    ├── Office version ...
 ├── Mac
-|    ├── OS version
-|    └── Keynote Version
+|    ├── OS version ...
+|    └── Keynote Version ...
 ├── External adaptors
 |    ├── HDMI
 |    ├── VGA
