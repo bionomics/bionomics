@@ -49,6 +49,12 @@ Registration fees will include cover food and accommodation for the complete dur
 
 [John McNamara](http://www.bristol.ac.uk/maths/people/john-m-mcnamara/index.html) (University of Bristol)
 
+[Georg Nöldeke](https://sites.google.com/site/georgnoldeke/) (University of Basel)
+
+[Ronald Noë](https://sites.google.com/site/ronaldnoe/) (University of Strasbourg)
+
+[Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University)
+
 
 # Organisers
 
@@ -56,9 +62,3 @@ Registration fees will include cover food and accommodation for the complete dur
 
 [Jorge Peña](https://jorgeapenas.wordpress.com/) (GEOMAR Helmholtz Centre for Ocean Research Kiel)
 
-
-[Georg Nöldeke](https://sites.google.com/site/georgnoldeke/) (University of Basel)
-
-[Ronald Noë](https://sites.google.com/site/ronaldnoe/) (University of Strasbourg)
-
-[Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University)
