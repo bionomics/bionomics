@@ -18,9 +18,9 @@ the conference is being organised by
 ![Gokhale]({{ site.url }}/images/cg.jpg)
 {: .pull-right}
 
-Research Group Leader - Theoretical E-co-evolutionary dynamics
-Department of Evolutionary Theory
-Max Planck Institute for Evolutionary Biology,
+Research Group Leader - Theoretical E-co-evolutionary dynamics  
+Department of Evolutionary Theory  
+Max Planck Institute for Evolutionary Biology,  
 Plön, Germany
 
 <div markdown="0"><a href="http://gokhalechaitanya.github.io" class="btn">Chaitanya's homepage</a></div>
@@ -32,9 +32,9 @@ and
 ![Pena]({{ site.url }}/images/jp.jpg)
 {: .pull-right}
 
-Evolutionary Ecology of Marine Fishes
-GEOMAR Helmholtz Centre for Ocean Research Kiel
-Düsternbrooker Weg 20
+Evolutionary Ecology of Marine Fishes  
+GEOMAR Helmholtz Centre for Ocean Research Kiel  
+Düsternbrooker Weg 20  
 24105 Kiel, Germany
 
 <div markdown="0"><a href="https://jorgeapenas.wordpress.com" class="btn">Jorge's homepage</a></div>
