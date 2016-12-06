@@ -9,11 +9,8 @@ share: true
 ---
 
 Professor,
-
 Mathematics Department,
-
 University of British Columbia,
-
 Vancouver, Canada.
 
 ---
