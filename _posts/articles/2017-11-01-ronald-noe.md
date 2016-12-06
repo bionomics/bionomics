@@ -8,6 +8,11 @@ comments: true
 share: true
 ---
 
+Professor, Psychology,  
+Université de Strasbourg, France  
+
+---
+
 ### Title
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->

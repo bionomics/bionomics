@@ -9,9 +9,9 @@ comments: true
 share: true
 ---
 
-Professor,
-Pola Pasvolsky Chair in Conservation Biology, Cape Town
-BBSRC David Phillips Research Fellow, Cambridge.
+Professor,  
+Pola Pasvolsky Chair in Conservation Biology, Cape Town  
+BBSRC David Phillips Research Fellow, Cambridge.  
 
 ---
 

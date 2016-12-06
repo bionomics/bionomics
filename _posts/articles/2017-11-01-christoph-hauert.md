@@ -8,10 +8,10 @@ comments: true
 share: true
 ---
 
-Professor,
-Mathematics Department,
-University of British Columbia,
-Vancouver, Canada.
+Professor,  
+Mathematics Department,  
+University of British Columbia,  
+Vancouver, Canada.  
 
 ---
 

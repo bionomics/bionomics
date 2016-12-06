@@ -9,6 +9,12 @@ comments: true
 share: true
 ---
 
+Assistant Professor of Ecology,  
+University of Miami,  
+Department of Biology  
+
+---
+
 ### Title
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->

@@ -9,9 +9,11 @@ comments: true
 share: true
 ---
 
-Assistant Professor of Biology,
-Department of Biology,
-University of Pennsylvania
+Assistant Professor of Biology,  
+Department of Biology,  
+University of Pennsylvania  
+
+---
 
 ### Title
 

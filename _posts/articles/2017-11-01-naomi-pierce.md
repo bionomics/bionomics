@@ -8,6 +8,14 @@ comments: true
 share: true
 ---
 
+Hessel Professor of Biology,  
+Department of Organismic and Evolutionary Biology,  
+Harvard University, USA
+
+Curator of Lepidoptera in the Museum of Comparative Zoology
+
+---
+
 ### Title
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
