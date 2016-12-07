@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ronald Noë
-affil: 
+affil: (University of Strasbourg)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

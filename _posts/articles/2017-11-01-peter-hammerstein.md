@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peter Hammerstein
-affil: 
+affil: (Humboldt University, Berlin)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

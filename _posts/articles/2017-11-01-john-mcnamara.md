@@ -1,7 +1,7 @@
 ---
 layout: post
 title: John McNamara
-affil: 
+affil: (University of Bristol)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

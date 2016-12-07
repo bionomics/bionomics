@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Georg Nöldeke
-affil: 
+affil: (University of Basel)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

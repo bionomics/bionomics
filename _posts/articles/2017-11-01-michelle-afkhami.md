@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Michelle Afkhami
-affil: 
+affil: (University of Miami)
 excerpt: "Title of talk"
 #modified: 2016-06-01T14:17:25-04:00
 categories: articles
@@ -11,8 +11,8 @@ share: true
 ---
 
 Assistant Professor of Ecology,  
-University of Miami,  
-Department of Biology  
+Department of Biology,  
+University of Miami  
 
 ---
 

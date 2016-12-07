@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Judie Bronstein
-affil: 
+affil: (University of Arizona)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Naomi Pierce
-affil: 
+affil: (Harvard University)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

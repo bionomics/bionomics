@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christoph Hauert
-affil: 
+affil: (University of British Columbia)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

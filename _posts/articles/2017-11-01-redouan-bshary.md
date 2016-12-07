@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redouan Bshary
-affil: 
+affil: (University of Neuchâtel)
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]
