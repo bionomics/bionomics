@@ -18,11 +18,15 @@ The objective of this workshop is to present the latest developments in the evol
 
 **31 April 2017** Notification of acceptance
 
-We are now welcoming submissions for short talks.
+<!-- We are now welcoming submissions for short talks.
 Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
 Please send the submissions to mutual-workshop@evolbio.mpg.de.
-Registration fees will cover food and accommodation for the complete duration of the conference.
+Registration fees will cover food and accommodation for the complete duration of the conference. -->
 
+We will be welcoming submissions for short talks from the **1st January 2017**.
+Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
+Email address for submission and further details regarding registration fees will be posted in January 2017.
+In the meantime if you have any queries, feel free to contact the organisers.
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
