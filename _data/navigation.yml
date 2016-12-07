@@ -3,8 +3,8 @@
 - title: Home
   url: /home/
 
-- title: Speakers
-  url: /articles/
+# - title: Speakers
+#   url: /articles/
 
 - title: Schedule
   url: /schedule/
@@ -12,8 +12,8 @@
 - title: Venue & Registration
   url: /venue/
 
-- title: Contact
-  url: /contact/
+# - title: Contact
+#   url: /contact/
 
 - title: Search
   url: /search/

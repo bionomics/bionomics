@@ -20,11 +20,31 @@ The objective of this workshop is to present the latest developments in the evol
 
 We are now welcoming submissions for short talks.
 Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
-Please send the submissions to mutual-workshop@evolbio.mpg.de. 
-Registration fees will include cover food and accommodation for the complete duration of the conference.
+Please send the submissions to mutual-workshop@evolbio.mpg.de.
+Registration fees will cover food and accommodation for the complete duration of the conference.
 
 
-# Keynote speakers
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<ul class="tag-box inline">
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+    <li><a href="#{{ this_word }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
+  {% endunless %}{% endfor %}
+</ul>
+
+{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+  <h2 id="{{ this_word }}">{{ this_word }}</h2>
+  <ul class="post-list">
+  {% for post in site.tags[this_word] %}{% if post.title != null %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
+  {% endif %}{% endfor %}
+  </ul>
+{% endunless %}{% endfor %}
+
+<!-- # Keynote speakers
 
 [Erol Akçay](https://erolakcay.wordpress.com/) (University of Pennsylvania)
 
@@ -53,7 +73,7 @@ Registration fees will include cover food and accommodation for the complete dur
 
 [Ronald Noë](https://sites.google.com/site/ronaldnoe/) (University of Strasbourg)
 
-[Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University)
+[Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University) -->
 
 
 # Organisers
@@ -61,4 +81,3 @@ Registration fees will include cover food and accommodation for the complete dur
 [Chaitanya S. Gokhale](http://gokhalechaitanya.github.io/) (Max Planck Institute for Evolutionary Biology)
 
 [Jorge Peña](https://jorgeapenas.wordpress.com/) (GEOMAR Helmholtz Centre for Ocean Research Kiel)
-
