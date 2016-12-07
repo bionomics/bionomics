@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-12-06 12:38:38 +0000</string>
+	<string>2016-12-07 09:56:02 +0000</string>
 	<key>Modifier</key>
 	<string>Chaitanya Gokhale</string>
 	<key>NotesVisible</key>
@@ -578,7 +578,7 @@
 					<array>
 						<dict>
 							<key>Bounds</key>
-							<string>{{44, 61.824490478327732}, {232.17550659179688, 232.17550659179688}}</string>
+							<string>{{59.01925443680112, 105.9657541924726}, {188.06849885909733, 188.06849885909733}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
@@ -622,7 +622,7 @@
 						</dict>
 						<dict>
 							<key>Bounds</key>
-							<string>{{182.00000396693619, 105.93149940380832}, {188.06849885909733, 188.0684903875725}}</string>
+							<string>{{152.91225067103773, 105.96575538525363}, {188.06849885909733, 188.0684903875725}}</string>
 							<key>Class</key>
 							<string>ShapedGraphic</string>
 							<key>ID</key>
