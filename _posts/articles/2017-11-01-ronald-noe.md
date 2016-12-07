@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ronald Noë
+affil: 
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

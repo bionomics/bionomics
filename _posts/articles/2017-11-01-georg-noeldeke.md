@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Georg Nöldeke
+affil: 
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Naomi Pierce
+affil: 
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]

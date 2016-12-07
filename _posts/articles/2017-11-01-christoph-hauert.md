@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christoph Hauert
+affil: 
 excerpt: "Title of talk"
 categories: articles
 tags: [short-talk]
