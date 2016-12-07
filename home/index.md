@@ -9,11 +9,13 @@ excerpt: "Workshop on the biology and economics of mutualisms being held at the 
 ## 1st - 3rd November 2017
 
 Mutualisms---between-species interactions beneficial to all organisms involved---are at the heart of many thriving ecosystems.
-The objective of this workshop is to present the latest developments in the evolution of mutualisms and to demonstrate the important role played by interdisciplinary approaches drawing from economic theory in the study of such systems.
+The objective of this workshop is to present the latest developments in the evolution of mutualisms and to demonstrate the important role played by interdisciplinary approaches in the study of such systems.
 
 ---
 
 # Important dates
+
+**1 January 2017** Registration opens
 
 **31 March 2017** Deadline for submission for short-talks and registration
 
@@ -28,7 +30,7 @@ Registration fees will cover food and accommodation for the complete duration of
 
 We will be welcoming submissions for short talks (30 mins) from the **1st January 2017**.
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
-**An email address for abstract submission and further details about nominal registration fees will be announced in January, 2017.**  
+**An email address for abstract submission and further details about nominal registration fees will be announced when registration opens.**  
 In the meantime if you have any queries, feel free to contact the organisers.
 
 ---

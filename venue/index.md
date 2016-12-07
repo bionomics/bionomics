@@ -22,7 +22,7 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 1. Map of Plön - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
 2. Child care facility - maybe possible, do enquire for details.
 
-**Arrival tip::** Any more information required?
+**Arrival tip::** Any more information required? Drop us a line.
 {: .notice}
 
 ---
@@ -46,11 +46,11 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 ```bash
 Presentation Tools
 ├── WindowsPC
-|    ├── OS version ...
-|    ├── Office version ...
+|    ├── OS version *will be updated*
+|    ├── MS Office version *will be updated*
 ├── Mac
-|    ├── OS version ...
-|    └── Keynote Version ...
+|    ├── OS version *will be updated*
+|    └── Keynote Version *will be updated*
 ├── External adaptors
 |    ├── HDMI
 |    ├── VGA
