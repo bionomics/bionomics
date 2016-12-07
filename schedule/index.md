@@ -3,6 +3,9 @@ layout: page
 title: Schedule
 excerpt: "Program Schedule"
 search_omit: true
+image:
+  feature: IMG_7820.jpg
+  credit: Chaitanya Gokhale
 ---
 
 <!-- ### Ordered Lists

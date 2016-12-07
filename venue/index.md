@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue & Registration
+title: Venue
 excerpt: "Instructions on how to register and arrive at the MPI."
 modified: 2016-09-12T08:42:37-04:00
 image:
