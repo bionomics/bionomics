@@ -11,12 +11,15 @@ excerpt: "Workshop on the biology and economics of mutualisms being held at the 
 Mutualisms---between-species interactions beneficial to all organisms involved---are at the heart of many thriving ecosystems.
 The objective of this workshop is to present the latest developments in the evolution of mutualisms and to demonstrate the important role played by interdisciplinary approaches drawing from economic theory in the study of such systems.
 
+---
 
 # Important dates
 
-**31 March 2017** Submission deadline for short talks
+**31 March 2017** Deadline for submission for short-talks and registration
 
 **31 April 2017** Notification of acceptance
+
+---
 
 <!-- We are now welcoming submissions for short talks.
 Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
@@ -24,8 +27,8 @@ Please send the submissions to mutual-workshop@evolbio.mpg.de.
 Registration fees will cover food and accommodation for the complete duration of the conference. -->
 
 We will be welcoming submissions for short talks from the **1st January 2017**.
-Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
-Email address for submission and further details regarding registration fees will be posted in January 2017.
+Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.
+Email address for submission and further details regarding *nominal registration fees* will be posted in January 2017.
 In the meantime if you have any queries, feel free to contact the organisers.
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
