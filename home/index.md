@@ -98,6 +98,6 @@ In the meantime if you have any queries, feel free to contact the organisers.
 
 ## Organisers
 
-[Chaitanya S. Gokhale](http://gokhalechaitanya.github.io/) (Max Planck Institute for Evolutionary Biology)
+[Chaitanya S. Gokhale (Max Planck Institute for Evolutionary Biology)](http://gokhalechaitanya.github.io/)
 
-[Jorge Peña](https://jorgeapenas.wordpress.com/) (GEOMAR Helmholtz Centre for Ocean Research Kiel)
+[Jorge Peña (GEOMAR Helmholtz Centre for Ocean Research Kiel)](https://jorgeapenas.wordpress.com/)
