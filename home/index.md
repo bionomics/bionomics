@@ -7,16 +7,18 @@ image:
   credit: Chaitanya Gokhale
 ---
 
-### The Biology and Economics of Mutualisms Workshop
+# The Biology and Economics of Mutualisms Workshop
 
 ## 1st - 3rd November 2017
+
+### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
 Mutualisms---between-species interactions beneficial to all organisms involved---are at the heart of many thriving ecosystems.
 The objective of this workshop is to present the latest developments in the evolution of mutualisms and to demonstrate the important role played by interdisciplinary approaches in the study of such systems.
 
 ---
 
-# Important dates
+## Important dates
 
 **1 January 2017** Registration opens
 
@@ -38,7 +40,7 @@ In the meantime if you have any queries, feel free to contact the organisers.
 
 ---
 
-# Confirmed Speakers
+## Confirmed Speakers
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
@@ -92,8 +94,9 @@ In the meantime if you have any queries, feel free to contact the organisers.
 
 [Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University) -->
 
+---
 
-# Organisers
+## Organisers
 
 [Chaitanya S. Gokhale](http://gokhalechaitanya.github.io/) (Max Planck Institute for Evolutionary Biology)
 
