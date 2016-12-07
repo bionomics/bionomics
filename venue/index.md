@@ -20,7 +20,7 @@ Registration opens in **January 2017**
 Some details about the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
 1. Map of Plön - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
-2. Child care facility - maybe possible, do enquire for details.
+2. Child care facility maybe possible, do enquire for details.
 
 **Arrival tip::** Any more information required? Drop us a line.
 {: .notice}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-excerpt: "Workshop on the biology and economics of mutualisms being held at the Max Planck Institute for Evolutionary Biology"
+excerpt: "The Biology and Economics of Mutualisms Workshop at the Max Planck Institute for Evolutionary Biology"
 image:
   feature: IMG_0895.jpg
   credit: Chaitanya Gokhale
@@ -22,7 +22,7 @@ The objective of this workshop is to present the latest developments in the evol
 
 **1 January 2017** Registration opens
 
-**31 March 2017** Deadline for submission for short-talks and registration
+**31 March 2017** Deadline for submission of short talks and registration
 
 **31 April 2017** Notification of acceptance
 
