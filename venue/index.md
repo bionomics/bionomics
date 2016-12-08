@@ -4,7 +4,7 @@ title: Venue
 excerpt: "Instructions on how to register and arrive at the MPI."
 modified: 2016-09-12T08:42:37-04:00
 image:
-  feature: IMG_3937.jpg
+  feature: IMG_6285.jpg
   credit: Chaitanya Gokhale
 ---
 
