@@ -22,9 +22,6 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 1. Map of Plön - [Google Maps](https://goo.gl/maps/C6Da2UsBjHB2)
 2. Child care facility maybe possible, do enquire for details.
 
-**Arrival tip::** Any more information required? Drop us a line.
-{: .notice}
-
 ---
 
 ## Arrival
@@ -37,6 +34,9 @@ Some details about the [Max Planck Institute for Evolutionary Biology](http://ww
 3. Boat - Ferries from the Baltic arrive in Kiel or Travemünde, Lübeck
 3. Road - The Institute is located right besides the [state highway B76](http://roadnow.com/germany/cities-along-bundesstraße-76-B76). Please refer to the map above for details. It takes about 2 hours to drive from Hamburg airport to the Institute.
 4. Train - The train connection between Kiel and Lübeck passes through Plön. Bookings are possible on [Deutsche Bahn](http://www.deutschebahn.com/en/start/)
+
+**Arrival tip::** Any more information required? Drop us a line.
+{: .notice}
 
 ---
 
