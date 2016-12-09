@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 
+title:
 excerpt:
 image:
   feature: IMG_0895.jpg
   credit: Chaitanya Gokhale
 ---
 
+### Workshop on  
+
+### The Biology and Economics of Mutualisms
 
 ### 1st - 3rd November 2017
 
