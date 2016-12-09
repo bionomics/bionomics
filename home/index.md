@@ -1,17 +1,13 @@
 ---
 layout: page
-title:
-excerpt:
+title: The Biology and Economics of Mutualisms
+excerpt: "Workshop on the biology and economics of mutualisms being held at the Max Planck Institute for Evolutionary Biology"
 image:
   feature: IMG_0895.jpg
   credit: Chaitanya Gokhale
 ---
 
-### Workshop on  
-
-### The Biology and Economics of Mutualisms
-
-### 1st - 3rd November 2017
+### Workshop dates: 1st - 3rd November 2017
 
 ### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
@@ -34,6 +30,8 @@ The objective of this workshop is to present the latest developments in the evol
 Submissions should include name, affiliation, title of the talk, abstract (of no more than 250 words).
 Please send the submissions to mutual-workshop@evolbio.mpg.de.
 Registration fees will cover food and accommodation for the complete duration of the conference. -->
+
+## Registration
 
 We will be welcoming submissions for short talks (30 mins) from the **1st January 2017**.
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
