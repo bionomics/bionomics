@@ -1,14 +1,13 @@
 ---
 layout: page
-title:  
+title:  Workshop on  
+ The Biology and Economics of Mutualisms
 excerpt: "The Biology and Economics of Mutualisms Workshop at the Max Planck Institute for Evolutionary Biology"
 image:
   feature: IMG_0895.jpg
   credit: Chaitanya Gokhale
 ---
 
-Workshop on
-## The Biology and Economics of Mutualisms
 
 ### 1st - 3rd November 2017
 
