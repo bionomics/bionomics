@@ -33,10 +33,10 @@ Registration fees will cover food and accommodation for the complete duration of
 
 ## Registration
 
-We will be welcoming submissions for short talks (30 mins) from the **1st January 2017**.
+We are now welcoming submissions for short talks..
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
-**An email address for abstract submission and further details about nominal registration fees will be announced when registration opens.**  
-In the meantime if you have any queries, feel free to contact the organisers.
+Please send in your application in an email with the subject line **Lastname,Firstname** to **mutual-workshop [at] evolbio [dot] mpg [dot] de**
+If you have any queries, feel free to contact the organisers.
 
 ---
 
