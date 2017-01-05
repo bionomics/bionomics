@@ -36,11 +36,12 @@ Registration fees will cover food and accommodation for the complete duration of
 We are now welcoming submissions for short talks (30 mins).
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
 Please send in your application in an email with the subject line **Lastname,Firstname** to **mutual-workshop [at] evolbio [dot] mpg [dot] de**
+
 If you have any queries, feel free to contact the organisers.
 
 ---
 
-## Confirmed Speakers
+<!--## Confirmed Speakers
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
@@ -57,7 +58,7 @@ If you have any queries, feel free to contact the organisers.
   <h2 id="{{ this_word }}">{{ this_word }}</h2>
   <ul class="post-list">
   {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.affil }}<!--<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>-->
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ post.affil }}<!--<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
     </a></li>
   {% endif %}{% endfor %}
   </ul>
@@ -93,8 +94,6 @@ If you have any queries, feel free to contact the organisers.
 [Ronald Noë](https://sites.google.com/site/ronaldnoe/) (University of Strasbourg)
 
 [Naomi Pierce](http://piercelab.oeb.harvard.edu/) (Harvard University) -->
-
----
 
 ## Organisers
 
