@@ -9,6 +9,10 @@ image:
 
 ### Workshop dates: 1st - 3rd November 2017
 
+### Registration open!
+
+---
+
 ### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
 
 Mutualisms---between-species interactions beneficial to all organisms involved---are at the heart of many thriving ecosystems.
@@ -31,7 +35,7 @@ Submissions should include name, affiliation, title of the talk, abstract (of no
 Please send the submissions to mutual-workshop@evolbio.mpg.de.
 Registration fees will cover food and accommodation for the complete duration of the conference. -->
 
-## Registration
+<!-- ## Registration
 
 We are now welcoming submissions for short talks (30 mins).
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
@@ -39,7 +43,7 @@ Please send in your application in an email with the subject line **Lastname,Fir
 
 A nominal *Registration fees* of 120 Euro will cover lodging and boarding for the complete duration of the conference.
 
-If you have any queries (dietary restrictions, child care etc.), do include those in the registration email.
+If you have any queries (dietary restrictions, child care etc.), do include those in the registration email. -->
 
 ---
 
