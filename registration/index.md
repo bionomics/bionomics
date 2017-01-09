@@ -16,7 +16,7 @@ A nominal *registration fees* of 120 Euro will cover lodging and boarding for th
 
 If you have any queries (dietary restrictions, child care etc.), do include those in the registration email.
 
-## Registration is required even if you are not presenting a short-talk
+## Note that the number of seats is limited. All registrants will be informed about their candidacy in April 2017
 
 <!-- #### title
 
