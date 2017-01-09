@@ -8,11 +8,11 @@ modified: 2016-09-12T08:42:37-04:00
 
 ## Registration is now open and will remain so till the **31 March 2017**
 
-We are now welcoming submissions for short talks (30 mins).
+We are now welcoming submissions for **short talks (30 mins)**.
 Submissions should include `name, affiliation, title of the talk, abstract (of no more than 250 words)`.  
 Please send in your application in an email with the subject line **Lastname,Firstname** to **mutual-workshop [at] evolbio [dot] mpg [dot] de**
 
-A nominal *Registration fees* of 120 Euro will cover lodging and boarding for the complete duration of the conference.
+A nominal *registration fees* of 120 Euro will cover lodging and boarding for the complete duration of the conference.
 
 If you have any queries (dietary restrictions, child care etc.), do include those in the registration email.
 
