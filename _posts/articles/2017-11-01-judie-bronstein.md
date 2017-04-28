@@ -2,7 +2,7 @@
 layout: post
 title: Judie Bronstein
 affil: (University of Arizona)
-excerpt: "Title of talk"
+excerpt: "Ecology and evolution of the costs of mutualism"
 categories: articles
 tags: [short-talk]
 comments: true
@@ -15,7 +15,7 @@ University of Arizona, Tucson, AZ
 
 ---
 
-### Title
+### Ecology and evolution of the costs of mutualism
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
