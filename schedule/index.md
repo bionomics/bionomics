@@ -41,7 +41,7 @@ image:
 | 1730 - 1800 | Poster setup   |    |
 | 1830 -  | Dinner   | MPI   |
 |----
-
+{: .table}
 ## Day 2
 
 | Time | Speaker | Title |
@@ -59,11 +59,12 @@ image:
 | 1600 - 1700 | Refreshments & Posters   |    |
 | 1730 -    | Evening walk - Dinner and Discussion   | Dörpskrog, Rathjensdorf   |
 |----
+{: .table}
 
 ## Day 3
 
 | Time | Speaker | Title |
-|:--------:|:-------:|--------:|
+|:-----------:|:-------:|--------:|
 | 0900 - 1000 | Olivia Roth   |    |
 | 1000 - 1030 | Gergely Boza   | The evolution of conditional and context-dependent investments in mutualisms   |
 | 1030 - 1100 | Refreshments   | Lobby  |
