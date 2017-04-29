@@ -17,7 +17,7 @@ University of Southampton
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/rebecca-hoyle.png)
+![Smithsonian Image]({{ site.url }}/images/rebecca-hoyle.jpg)
 {: .pull-right}
 
 We consider economic and social influences on the evolution of cooperative behaviour using a modified public goods game on a multiplex network as a model. We find that social influence leads to the persistence of initial cooperation strategies and so can promote the survival of highly cooperative strategies even when the economic reward for cooperation is relatively modest. This result holds for a range of social norms and for differing economic and social group structures.
