@@ -1,31 +1,25 @@
 ---
 layout: post
-title: Ronald Noë
-affil: (University of Strasbourg)
-excerpt: "Title of talk"
+title: Aniek Ivens
+affil: (New York/ Netherlands)
+excerpt: "A network approach to understanding mutualism evolution and stability"
 categories: articles
-tags: [short-talk]
+tags: [registered-speakers]
 comments: true
 share: true
 ---
 
-Professor, Psychology,  
-Université de Strasbourg, France  
+New York/ Netherlands
 
 ---
 
-### Title
+### A network approach to understanding mutualism evolution and stability
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/ronald-noe.jpg)
+![Smithsonian Image]({{ site.url }}/images/aniek-ivens.jpg)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+Research efforts seeking to understand mutualism evolution and stability have historically often focused on single species interactions in isolation from their wider ecological context. These individual interactions are now increasingly recognized as subsets of larger ecological networks in which both mutualistic partners are represented by multiple species. Also, "third-party" organisms can indirectly modulate the success of mutualistic interactions as so-called "mutualism modulators", by making engagement in a mutualism worthwhile to the mutualistic partners.  This extended view of mutualism dynamics may well hold the long-sought explanation for mutualism evolutionary stability. Network theory provides tools to study these dynamics quantitatively, with specificity and modularity metrics being particularly relevant as indicators of mutualistic co-evolution. In our studies, we adopt this framework to study mutualism dynamics, both theoretically, using simulation models of network evolution, and empirically, by characterizing the biological mechanisms underlying ant-trophobiont network structures. Our focal North American subterranean ant-trophobiont interactions are classic examples of obligate mutualism: ants provide aphids and mealybugs with a constant, parasite-free environment and in turn the trophobionts provide the ants with their main sugar-source: honeydew. In our network analysis, we characterized a multilevel interaction network of ants, their trophobionts, the insectsâ€™ microbiome and the trophobiontsâ€™ host plants. We show that the obligate ant-trophobiont species interactions are surprisingly non-specific, and that mutualism stability in this nutritional system is instead likely modulated by highly specific third-party associations of trophobiont microbiomes and host plants, which would act as mutualism modulators via their effects on the honeydew, prime commodity of this mutualism.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
-
-<div markdown="0"><a href="https://sites.google.com/site/ronaldnoe/" class="btn">Homepage</a></div>
+<div markdown="0"><a href="http://www.falw.vu.nl/en/research/ecological-sciences/animal-ecology/staff/aniek-ivens.aspx" class="btn">Homepage</a></div>

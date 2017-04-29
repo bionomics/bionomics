@@ -1,31 +1,25 @@
 ---
 layout: post
-title: Ronald Noë
-affil: (University of Strasbourg)
-excerpt: "Title of talk"
+title: Douglas Yu
+affil: (University of East Anglia and Kunming Institute of Zoology)
+excerpt: "Evolution of passwords for cost-free honest signalling between symbionts and hosts"
 categories: articles
-tags: [short-talk]
+tags: [registered-speakers]
 comments: true
 share: true
 ---
 
-Professor, Psychology,  
-Université de Strasbourg, France  
+University of East Anglia and Kunming Institute of Zoology
 
 ---
 
-### Title
+### Evolution of passwords for cost-free honest signalling between symbionts and hosts - Marco Archetti, J. Benjamin Miller, Douglas W. Yu
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/ronald-noe.jpg)
+![Smithsonian Image]({{ site.url }}/images/douglas-yu.png)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+In mutualisms, it is usually impossible to link a cost to the likelihood that a potential partner will behave cooperatively in the future, which prevents the use of costly, honest signalling for partner choice. In fact, signals like Nod factors in rhizobial bacteria, which form symbioses with leguminous plants, are evidence for cost-free, honest signals in situations of potential conflict. We suggest that because Nod factors are complex, they are impossible to evolve de novo and thus signal that the symbiont and host lineages share a mutualistic history, a system akin to a password or a lock-and-key. We show that passwords can evolve when the receiver is under soft selection, which occurs when high juvenile mortality does not lead to a corresponding reduction in fitness. Passwords might also apply to complex species-recognition signals in mate choice and in the acquisition of defensive symbionts.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
-
-<div markdown="0"><a href="https://sites.google.com/site/ronaldnoe/" class="btn">Homepage</a></div>
+<div markdown="0"><a href="http://www.douglasyu.org" class="btn">Homepage</a></div>

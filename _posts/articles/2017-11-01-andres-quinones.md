@@ -1,31 +1,25 @@
 ---
 layout: post
-title: Ronald Noë
-affil: (University of Strasbourg)
-excerpt: "Title of talk"
+title: Andrés Quiñones
+affil: (University of Neuchâtel)
+excerpt: "Modelling learning processes in the cleaner wrasse mutualism"
 categories: articles
-tags: [short-talk]
+tags: [registered-speakers]
 comments: true
 share: true
 ---
 
-Professor, Psychology,  
-Université de Strasbourg, France  
+University of Neuchâtel
 
 ---
 
-### Title
+### Modelling learning processes in the cleaner wrasse mutualism
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/ronald-noe.jpg)
+![Smithsonian Image]({{ site.url }}/images/andres-quinones.jpg)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+Typically, game theoretical models assume, for the sake of simplicity, that cooperative behaviours have a purely genetic basis. But, recent evidence shows that cooperative behaviours have a complex phenotypic origin, including cognition. In order to integrate evolutionary game theory with the cognitive mechanisms underlying behaviour, we need to model the cognitive origin of the behavioural trait. The cleaner wrasse mutualism is a textbook example of interspecific cooperation, where evolutionary game theory has been applied to understand the selective pressures behind behavioural evolution. But, in recent years, intraspecific variation in the cognitive capabilities of cleaners has challenged some of the game-theoretical predictions. In this talk, we will explore a set of models of learning in the context of the cleaner wrasse mutualism. Our models aim at understanding the intraspecific variation as a potential consequence of the cleanersâ€™ learning processes. During the learning process cleaners estimate how valuable different behavioural actions are. We show that trade-offs inherent to the estimation process such as exploration-exploitation and speed-accuracy determine the behavioural choice. Furthermore, we find that cleanersâ€™ capacity to take into account the future during the learning process is necessary for them to reach the rational behaviour predicted by game-theoretical considerations. We will discuss how different ecological scenarios, such as variation in client density and composition, as well as cleaner density, influence the cognitive capabilities of cleaners, and how that translates to the mutualistic interaction.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
-
-<div markdown="0"><a href="https://sites.google.com/site/ronaldnoe/" class="btn">Homepage</a></div>
+<div markdown="0"><a href="http://behav.zoology.unibe.ch/index.php?pp=57&p=164" class="btn">Homepage</a></div>

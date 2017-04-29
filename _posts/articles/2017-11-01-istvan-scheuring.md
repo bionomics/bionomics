@@ -1,31 +1,25 @@
 ---
 layout: post
-title: Ronald Noë
-affil: (University of Strasbourg)
-excerpt: "Title of talk"
+title: István Scheuring
+affil: (Eötvös University, Hungary)
+excerpt: "Host directed interference competition of microbes"
 categories: articles
-tags: [short-talk]
+tags: [registered-speakers]
 comments: true
 share: true
 ---
 
-Professor, Psychology,  
-Université de Strasbourg, France  
+Eötvös University and HAS, Theoretical Biology and Evolutionary Ecology Research Group Budapest, Hungary
 
 ---
 
-### Title
+### Host directed interference competition of microbes - Scheuring, I., Boza, G, Yu, D. W
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/ronald-noe.jpg)
+![Smithsonian Image]({{ site.url }}/images/istvan-scheuring.jpg)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+There is great interest in explaining how beneficial microbiomes are assembled. Antibiotic-producing microbiomes are arguably the most abundant class of beneficial microbiome in nature, having been found on corals, arthropods, molluscs, vertebrates and plant rhizospheres. We studied models by showing that when hosts fuel interference competition by providing abundant resources, the interference competition favours the recruitment of antibiotic-producing (and-resistant) bacteria. Further, we studied the effect of diffusion speed of antibiotic and the mechanism of resistance on the success of antibiotic-producing bacteria. We pointed out that this partner-choice mechanism is more effective when at least one antibiotic producer symbiont strain with efflux-type resistance is vertically transmitted or has a high immigration rate and when diffusion speed of antibiotic is moderate.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
-
-<div markdown="0"><a href="https://sites.google.com/site/ronaldnoe/" class="btn">Homepage</a></div>
+<div markdown="0"><a href="http://ramet.elte.hu/~ramet/staff/Si/simaine.html" class="btn">Homepage</a></div>
