@@ -30,7 +30,7 @@ image:
 |:----------------:|:-------:|--------:|
 | 1200-1250 | Welcome Snack   |   |
 | 1250 - 1300 | Welcome address   |    |
-| 1300 - 1400 | Claire Spottiswoode   |    |
+| 1300 - 1400 | <a href="<a href="{{ site.url }}/articles/claire-spottiswoode/">" class="btn">Claire Spottiswoode</a>   |    |
 | 1400 - 1430 | Ronald Noë  |    |
 | 1430 - 1500 | Douglas Yu   | Evolution of passwords for cost-free honest signalling between symbionts and hosts   |
 | 1500 - 1530 | Refreshments   |    |
