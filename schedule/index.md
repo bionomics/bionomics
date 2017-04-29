@@ -24,7 +24,7 @@ image:
 
 <!-- ## Will be announced in April, 2017 -->
 
-## 1st November
+## Day 1
 
 | Time | Speaker | Title |
 |:--------:|:-------:|--------:|
@@ -42,8 +42,10 @@ image:
 | 1830 -  | Dinner   | MPI   |
 |----
 
-## 2nd November
+## Day 2
 
+| Time | Speaker | Title |
+|:--------:|:-------:|--------:|
 | 0900 - 1000 | Erol Akçay   |    |
 | 1000 - 1030 | Laura Hernandez   | The role of mutualistic interactions as market stabilizers    |
 | 1030 - 1100 | Refreshments   | Lobby   |
@@ -58,9 +60,10 @@ image:
 | 1730 -    | Evening walk - Dinner and Discussion   | Dörpskrog, Rathjensdorf   |
 |----
 
-## 3rd November 
+## Day 3
 
-
+| Time | Speaker | Title |
+|:--------:|:-------:|--------:|
 | 0900 - 1000 | Olivia Roth   |    |
 | 1000 - 1030 | Gergely Boza   | The evolution of conditional and context-dependent investments in mutualisms   |
 | 1030 - 1100 | Refreshments   | Lobby  |
@@ -72,6 +75,4 @@ image:
 | 1500 - 1530  | Christoph Hauert   | tbd   |
 | 1530 - 1600  | Redouan Bshary   | tbd   |
 | 1600 -  | Closing remarks   | |
-<!-- |=====
-| Foot1   | Foot2   | Foot3   | -->
 {: .table}
