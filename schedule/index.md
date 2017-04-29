@@ -28,7 +28,7 @@ image:
 
 | Time | Speaker | Title |
 |:----------------:|:-------:|--------:|
-| 1200 - 1250 | Welcome Lunch   |   |
+| 1200-1250 | Welcome Snack   |   |
 | 1250 - 1300 | Welcome address   |    |
 | 1300 - 1400 | Claire Spottiswoode   |    |
 | 1400 - 1430 | Ronald Noë  |    |
