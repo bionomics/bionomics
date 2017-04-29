@@ -20,11 +20,6 @@ Aarhus University, Denmark
 ![Smithsonian Image]({{ site.url }}/images/jessica-barker.jpg)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
+Exploitation in mutualism is widespread. Mechanisms to control it are surprisingly rare, although it generally assumed that it is costly to be exploited. We introduce the concept of temporal structure in mutualistic interactions: that is, the sequence in which exploitation occurs relative to cooperation. We hypothesize that temporal structure affects the net costs of being exploited, and argue that this can help explain when and where control mechanisms are observed in nature. Our principal prediction is that when exploitation occurs late relative to cooperation, there should be little selection to limit its effects (analogous to â€œtolerated theftâ€ in human cooperative groups). Although we focus on cases in which mutualists and exploiters are different individuals (of the same or different species), our inferences can readily be extended to cases in which individuals exhibit mixed cooperative-exploitative strategies, as well as to cooperative interactions within species. We demonstrate that temporal structure should be considered alongside spatial structure as an important process shaping the evolution of cooperation.
 
 <div markdown="0"><a href="http://aias.au.dk/aias-fellows/jessica-barker/" class="btn">Homepage</a></div>
