@@ -22,46 +22,48 @@ image:
 * Item two
 * Item three -->
 
-## Will be announced in April, 2017
-<!--
+<!-- ## Will be announced in April, 2017 -->
+
 | Time | Speaker | Title |
 |:--------|:-------:|--------:|
-| 0850   | Welcome address   |   |
-| 0900   | Plenary I   | cell6   |
-| 1000   | Short Talk 1   | cell6   |
-| 1030   | Coffee   | cell6   |
-| 1100   | Short Talk 2   | cell6   |
-| 1130   | Short Talk 3   | cell6   |
-| 1200   | Short Talk 4   | cell6   |
-| 1230 - 1400  | Lunch   | cell6   |
-| 1400   | Plenary II   | cell6   |
-| 1500   | Short Talk 5   | cell6   |
-| 1530   | Short Talk 6   | cell6   |
-| 1600 - 1730   | Break   | cell6   |
-| 1730 -    | Social Event/Dinner   | Dörpskrog Rathjensdorf   |
+| 1200 - 1250 | Welcome Lunch   |   |
+| 1250 - 1300 | Welcome address   |    |
+| 1300 - 1400 | Claire Spottiswoode   |    |
+| 1400 - 1430 | Ronald Noë  |    |
+| 1430 - 1500 | Douglas Yu   | Evolution of passwords for cost-free honest signalling between symbionts and hosts   |
+| 1500 - 1530 | Refreshments   |    |
+| 1530 - 1600 | Judith Bronstein  | Ecology and evolution of the costs of mutualism   |
+| 1600 - 1630 | Aniek Ivens   | A network approach to understanding mutualism evolution and stability   |
+| 1630 - 1700 | Jessica Barker   | Temporal structure in mutualism: what does the timing of exploitation tell us about its cost?   |
+| 1700 - 1730 | Peter Hammerstein   |    |
+| 1730 - 1800 | Poster setup   |    |
+| 1830 -  | Dinner   | MPI   |
 |----
-| 0900   | Plenary III   | cell6   |
-| 1000   | Short Talk 7   | cell6   |
-| 1030   | Coffee   | cell6   |
-| 1100   | Short Talk 8   | cell6   |
-| 1130   | Short Talk 9   | cell6   |
-| 1200   | Short Talk 10   | cell6   |
-| 1230 - 1400  | Lunch   | cell6   |
-| 1400   | Plenary IV   | cell6   |
-| 1500   | Short Talk 11   | cell6   |
-| 1530   | Coffee   | cell6   |
-| 1600   | Short Talk 12   | cell6   |
-| 1630   | Short Talk 13   | cell6   |
-| 1700   | Short Talk 14   | cell6   |
-| 1900   | Dinner   | cell6   |
+| 0900 - 1000 | Erol Akçay   |    |
+| 1000 - 1030 | Laura Hernandez   | The role of mutualistic interactions as market stabilizers    |
+| 1030 - 1100 | Refreshments   | Lobby   |
+| 1100 - 1130 | Naomi Pierce   |    |
+| 1130 - 1200 | István Scheuring   | Host directed interference competition of microbe   |
+| 1200 - 1230 | Caroline Schöner   | Costs and benefits in a bat-pitcher plant mutualism   |
+| 1230 - 1400 | Lunch   |  tbd |
+| 1400 - 1500 | Michelle Afkhami   |    |
+| 1500 - 1530 | John McNamara   |    |
+| 1600 - 1600 | Rebecca Hoyle   | Modelling social influence on cooperation: the public goods game on a multiplex network   |
+| 1600 - 1700 | Refreshments & Posters   |    |
+| 1730 -    | Evening walk - Dinner and Discussion   | Dörpskrog, Rathjensdorf   |
 |----
-| 0900   | Plenary V   | cell6   |
-| 1000   | Short Talk 15   | cell6   |
-| 1030   | Coffee   | cell6   |
-| 1100   | Short Talk 16   | cell6   |
-| 1130   | Short Talk 17   | cell6   |
-| 1200   | Short Talk 18   | cell6   |
-| 1230 - 1400  | Lunch   | cell6   |
+| 0900 - 1000 | Olivia Roth   |    |
+| 1000 - 1030 | Gergely Boza   | The evolution of conditional and context-dependent investments in mutualisms   |
+| 1030 - 1100 | Refreshments   | Lobby  |
+| 1100 - 1130 | Georg Noldeke   | |
+| 1130 - 1200 | Andrés Quiñones   | Modelling learning processes in the cleaner wrasse mutualism |
+| 1200 - 1230 | Yamir Moreno  | The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems |
+| 1230 - 1400 | Lunch   | MPI |
+| 1400 - 1500 | Megan Fredrickson  | tbd   |
+| 1500 - 1530  | Christoph Hauert   | tbd   |
+| 1530 - 1600  | Redouan Bshary   | tbd   |
+| 1600 -  | Closing remarks   | |
+
 |=====
 | Foot1   | Foot2   | Foot3   |
-{: .table} -->
+{: .table}
