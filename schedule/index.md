@@ -72,7 +72,7 @@ image:
 | 1130 - 1200 | Andrés Quiñones   | Modelling learning processes in the cleaner wrasse mutualism |
 | 1200 - 1230 | Yamir Moreno  | The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems |
 | 1230 - 1400 | Lunch   | MPI |
-| 1400 - 1500 | <a href="{{ site.url }}/articles/megan-fredrickson/" style="color:#a52a2a;" >Megan Fredrickson</a>  | tbd   |
+| 1400 - 1500 | <a href="{{ site.url }}/articles/megan-frederickson/" style="color:#a52a2a;" >Megan Frederickson</a>  | tbd   |
 | 1500 - 1530  | Christoph Hauert   | tbd   |
 | 1530 - 1600  | Redouan Bshary   | tbd   |
 | 1600 -  | Closing remarks   | |
