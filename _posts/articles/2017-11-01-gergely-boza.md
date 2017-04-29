@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gergely Boza
-affil: International Institute for Applied Systems Analysis (IIASA), Austria & Eötvös University, Hungary.
+affil: (International Institute for Applied Systems Analysis (IIASA), Austria & Eötvös University, Hungary)
 excerpt: "The evolution of conditional and context-dependent investments in mutualisms"
 categories: articles
 tags: [registered-speakers]
