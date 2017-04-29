@@ -38,7 +38,7 @@ image:
 | 1600 - 1630 | Aniek Ivens   | A network approach to understanding mutualism evolution and stability   |
 | 1630 - 1700 | Jessica Barker   | Temporal structure in mutualism: what does the timing of exploitation tell us about its cost?   |
 | 1700 - 1730 | Peter Hammerstein   |    |
-| 1730 - 1800 | Poster setup   |    |
+| 1730 - 1800 | Poster setup   |  Rebecca Batstone, Alexandra Brown, Teresa Clark, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
 | 1830 -  | Dinner   | MPI   |
 |----
 {: .table}
@@ -56,7 +56,7 @@ image:
 | 1400 - 1500 | <a href="{{ site.url }}/articles/michelle-afkhami/" style="color:#a52a2a;" >Michelle Afkhami </a>  |    |
 | 1500 - 1530 | John McNamara   |    |
 | 1600 - 1600 | Rebecca Hoyle   | Modelling social influence on cooperation: the public goods game on a multiplex network   |
-| 1600 - 1700 | Refreshments & Posters   |    |
+| 1600 - 1700 | Refreshments & Posters   | Rebecca Batstone, Alexandra Brown, Teresa Clark, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
 | 1730 -    | Evening walk - Dinner and Discussion   | Dörpskrog, Rathjensdorf   |
 |----
 {: .table}
