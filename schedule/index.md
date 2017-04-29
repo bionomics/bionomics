@@ -25,7 +25,7 @@ image:
 <!-- ## Will be announced in April, 2017 -->
 
 | Time | Speaker | Title |
-|:--------|:-------:|--------:|
+|:--------:|:-------:|--------:|
 | 1200 - 1250 | Welcome Lunch   |   |
 | 1250 - 1300 | Welcome address   |    |
 | 1300 - 1400 | Claire Spottiswoode   |    |
