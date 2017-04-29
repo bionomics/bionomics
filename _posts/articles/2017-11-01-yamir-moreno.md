@@ -1,31 +1,25 @@
 ---
 layout: post
-title: Ronald Noë
-affil: (University of Strasbourg)
-excerpt: "Title of talk"
+title: Yamir Moreno
+affil: (University of Zaragoza)
+excerpt: "The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems"
 categories: articles
-tags: [short-talk]
+tags: [registered-speakers]
 comments: true
 share: true
 ---
 
-Professor, Psychology,  
-Université de Strasbourg, France  
+Institute for Biocomputation and Physics of Complex Systems (BIFI), University of Zaragoza
 
 ---
 
-### Title
+### The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems
 
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
-![Smithsonian Image]({{ site.url }}/images/ronald-noe.jpg)
+![Smithsonian Image]({{ site.url }}/images/yamir-moreno.png)
 {: .pull-right}
 
-<!-- *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+Relations among species in ecosystems can be represented by complex networks where both negative (com- petition) and positive (mutualism) interactions are concurrently present. Recently, it has been shown that many ecosystems can be cast into mutualistic networks, and that nestedness reduces effective inter-species competition, thus facilitating mutually beneficial interactions and increasing the number of coexisting species or the biodiversity. However, current approaches neglect the structure of inter-species competition by adopting a mean-field perspective that does not deal with competitive interactions properly. Here, we introduce a framework based on the concept of multilayer networks, which naturally accounts for both mutualism and competition. Hence, we abandon the mean field hypothesis and show, through a dynamical population model and numerical simulations, that there is an intricate relation between competition and mutualism. Specifically, we show that when all interactions are taken into account, mutualism does not have the same consequences on the evolution of specialist and generalist species. This leads to a non-trivial profile of biodiversity in the parameter space of competition and mutualism. Our findings emphasize how the simultaneous consideration of positive and negative interactions can contribute to our understanding of the delicate trade-offs between topology and biodiversity in ecosystems and call for a reconsideration of previous findings in theoretical ecology, as they may affect the structural and dynamical stability of mutualistic systems.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-
-## Buttons -->
-
-<div markdown="0"><a href="https://sites.google.com/site/ronaldnoe/" class="btn">Homepage</a></div>
+<div markdown="0"><a href="http://cosnet.bifi.es/people/yamir-moreno/" class="btn">Homepage</a></div>
