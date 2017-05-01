@@ -47,15 +47,15 @@ image:
 | Time | Speaker | Title |
 |:--------:|:-------:|--------:|
 | 0900 - 1000 | <a href="{{ site.url }}/articles/erol-akcay/" style="color:#a52a2a;" >Erol Akçay</a>   |    |
-| 1000 - 1030 | Laura Hernandez   | The role of mutualistic interactions as market stabilizers    |
+| 1000 - 1030 | <a href="{{ site.url }}/articles/laura-hernandez/" style="color:#008000;" >Laura Hernandez</a>   | The role of mutualistic interactions as market stabilizers    |
 | 1030 - 1100 | Refreshments   |    |
 | 1100 - 1130 | Naomi Pierce   |    |
-| 1130 - 1200 | István Scheuring   | Host directed interference competition of microbe   |
-| 1200 - 1230 | Caroline Schöner   | Costs and benefits in a bat-pitcher plant mutualism   |
-| 1230 - 1400 | Lunch   |  tbd |
+| 1130 - 1200 | <a href="{{ site.url }}/articles/istvan-scheuring/" style="color:#008000;" >István Scheuring</a>   | Host directed interference competition of microbe   |
+| 1200 - 1230 | <a href="{{ site.url }}/articles/caroline-schoener/" style="color:#008000;" >Caroline Schöner</a>   | Costs and benefits in a bat-pitcher plant mutualism   |
+| 1230 - 1400 | Lunch   |   |
 | 1400 - 1500 | <a href="{{ site.url }}/articles/michelle-afkhami/" style="color:#a52a2a;" >Michelle Afkhami </a>  |    |
 | 1500 - 1530 | John McNamara   |    |
-| 1530 - 1600 | Rebecca Hoyle   | Modelling social influence on cooperation: the public goods game on a multiplex network   |
+| 1530 - 1600 | <a href="{{ site.url }}/articles/rebecca-hoyle/" style="color:#008000;" >Rebecca Hoyle</a>   | Modelling social influence on cooperation: the public goods game on a multiplex network   |
 | 1600 - 1700 | Refreshments & Posters   | Rebecca Batstone, Alexandra Brown, Teresa Clark, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
 | 1730 -    | Evening walk - Dinner and Discussion   | at Dörpskrog, Rathjensdorf   |
 |----
@@ -66,12 +66,12 @@ image:
 | Time | Speaker | Title |
 |:-----------:|:-------:|--------:|
 | 0900 - 1000 | <a href="{{ site.url }}/articles/olivia-roth/" style="color:#a52a2a;" >Olivia Roth</a>   |    |
-| 1000 - 1030 | Gergely Boza   | The evolution of conditional and context-dependent investments in mutualisms   |
+| 1000 - 1030 | <a href="{{ site.url }}/articles/gergely-boza/" style="color:#008000;" >Gergely Boza</a>   | The evolution of conditional and context-dependent investments in mutualisms   |
 | 1030 - 1100 | Refreshments   |   |
 | 1100 - 1130 | Georg Nöldeke   | |
-| 1130 - 1200 | Andrés Quiñones   | Modelling learning processes in the cleaner wrasse mutualism |
-| 1200 - 1230 | Yamir Moreno  | The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems |
-| 1230 - 1400 | Lunch   | MPI |
+| 1130 - 1200 | <a href="{{ site.url }}/articles/andres-quinones/" style="color:#008000;" >Andrés Quiñones</a>   | Modelling learning processes in the cleaner wrasse mutualism |
+| 1200 - 1230 | <a href="{{ site.url }}/articles/yamir-moreno/" style="color:#008000;" >Yamir Moreno</a>  | The joint influence of competition and mutualism on the biodiversity of mutualistic ecosystems |
+| 1230 - 1400 | Lunch   | at MPI |
 | 1400 - 1500 | <a href="{{ site.url }}/articles/megan-frederickson/" style="color:#a52a2a;" >Megan Frederickson</a>  |    |
 | 1500 - 1530  | Christoph Hauert   |    |
 | 1530 - 1600  | Redouan Bshary   |    |
