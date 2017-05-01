@@ -54,6 +54,9 @@ Presentation Tools
 ├── External adaptors
 |    ├── HDMI
 |    ├── VGA
+├── Poster arrangements
+|    ├── Portrait orientation poster boards (size soon!!)
+|    ├── Pins/Stickers will be provided
 ```
 
 ---
