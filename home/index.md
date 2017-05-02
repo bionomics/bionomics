@@ -9,7 +9,7 @@ image:
 
 ### Workshop dates: 1st - 3rd November 2017
 
-### Registration open!
+### Registration closed!
 
 ---
 
@@ -22,11 +22,13 @@ The objective of this workshop is to present the latest developments in the evol
 
 ## Important dates
 
-**1 January 2017** Registration opens
+**1 January 2017** <s> Registration opens </s>
 
-**31 March 2017** Deadline for submission of short talks and registration
+**31 March 2017** <s> Deadline for submission of short talks and registration </s>
 
-**31 April 2017** Notification of acceptance
+**31 April 2017** <s> Notification of acceptance </s>
+
+**01 November 2017** Workshop begins!
 
 ---
 
