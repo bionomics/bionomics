@@ -65,7 +65,7 @@ image:
 
 | Time | Speaker | Title |
 |:-----------:|:-------:|--------:|
-| 0900 - 1000 |  <a href="{{ site.url }}/articles/michelle-afkhami/" style="color:#a52a2a;" >Michelle Afkhami </a>  |    |
+| 0900 - 1000 |  <a href="{{ site.url }}/articles/michelle-afkhami/" style="color:#a52a2a;" >Michelle Afkhami </a>  |  Scaling down and scaling up from mutualistic effects on fitness  |
 | 1000 - 1030 | <a href="{{ site.url }}/articles/gergely-boza/" style="color:#008000;" >Gergely Boza</a>   | The evolution of conditional and context-dependent investments in mutualisms   |
 | 1030 - 1100 | Refreshments   |   |
 | 1100 - 1130 | Naomi Pierce   |    |
