@@ -74,6 +74,8 @@ image:
 | 1230 - 1400 | Lunch   | at MPI |
 | 1400 - 1500 | <a href="{{ site.url }}/articles/megan-frederickson/" style="color:#a52a2a;" >Megan Frederickson</a>  |    |
 | 1500 - 1530  | Christoph Hauert   |    |
-| 1530 - 1600  | Redouan Bshary   |    |
-| 1600 -  | Closing remarks   | |
+| 1530 - 1600  | Refreshments   |    |
+| 1600 - 1630  | Charles Mullon   |    |
+| 1630 - 1700  | Redouan Bshary   |    |
+| 1700 -  | Closing remarks   | |
 {: .table}
