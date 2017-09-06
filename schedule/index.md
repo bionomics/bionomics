@@ -56,7 +56,7 @@ image:
 | 1500 - 1530 | <a href="{{ site.url }}/articles/rebecca-hoyle/" style="color:#008000;" >Rebecca Hoyle</a>   |  Modelling social influence on cooperation: the public goods game on a multiplex network   |
 | 1530 - 1600 |  John McNamara  |   |
 | 1600 - 1700 | Refreshments & Posters   | Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
-| 1730 -    | Evening walk - Dinner and Discussion   | at <a href="http://www.doerpskrog-rathjensdorf.deDörpskrog" style="color:#008000;" >Dörpskrog, Rathjensdorf </a>  |
+| 1730 -    | Evening walk - Dinner and Discussion   | at <a href="http://www.doerpskrog-rathjensdorf.de" style="color:#008000;" >Dörpskrog, Rathjensdorf </a>  |
 |----
 {: .table}
 
