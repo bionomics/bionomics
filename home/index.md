@@ -107,4 +107,4 @@ If you have any queries (dietary restrictions, child care etc.), do include thos
 
 [Chaitanya S. Gokhale (Max Planck Institute for Evolutionary Biology)](http://gokhalechaitanya.github.io/)
 
-[Jorge Peña (GEOMAR Helmholtz Centre for Ocean Research Kiel)](https://jorgeapenas.wordpress.com/)
+[Jorge Peña (Institute for Advanced Study in Toulouse)](https://jorgeapenas.wordpress.com/)
