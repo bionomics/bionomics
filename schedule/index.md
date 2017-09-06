@@ -32,12 +32,12 @@ image:
 | 1250 - 1300 | Welcome address   |    |
 | 1300 - 1400 | <a href="{{ site.url }}/articles/claire-spottiswoode/" style="color:#a52a2a;" >Claire Spottiswoode</a>   |    |
 | 1400 - 1430 | <a href="{{ site.url }}/articles/ronald-noe/" style="color:#008000;" >Ronald Noë</a>  |  What makes mutualisms markets?  |
-| 1430 - 1500 | <a href="{{ site.url }}/articles/charles-mullon/" style="color:#a52a2a;" >Charles Mullon</a>   | Evolution of passwords for cost-free honest signalling between symbionts and hosts   |
+| 1430 - 1500 | <a href="{{ site.url }}/articles/charles-mullon/" style="color:#a52a2a;" >Charles Mullon</a>   |    |
 | 1500 - 1530 | Refreshments   |    |
 | 1530 - 1600 | <a href="{{ site.url }}/articles/judie-bronstein/" style="color:#008000;" >Judith Bronstein</a>  | Ecology and evolution of the costs of mutualism   |
 | 1600 - 1630 | <a href="{{ site.url }}/articles/aniek-ivens/" style="color:#008000;" >Aniek Ivens</a>   | A network approach to understanding mutualism evolution and stability   |
 | 1630 - 1700 | <a href="{{ site.url }}/articles/jessica-barker/" style="color:#008000;" >Jessica Barker</a>   | Temporal structure in mutualism: what does the timing of exploitation tell us about its cost?   |
-| 1700 - 1730 |  Poster setup  |    | Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
+| 1700 - 1730 |  Poster setup  |    Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
 | 1830 -  | Dinner   | at MPI   |
 |----
 {: .table}
@@ -53,10 +53,10 @@ image:
 | 1200 - 1230 | <a href="{{ site.url }}/articles/caroline-schoener/" style="color:#008000;" >Caroline Schöner</a>   | Costs and benefits in a bat-pitcher plant mutualism   |
 | 1230 - 1400 | Lunch   |   |
 | 1400 - 1500 | <a href="{{ site.url }}/articles/olivia-roth/" style="color:#a52a2a;" >Olivia Roth</a>  |    |
-| 1500 - 1530 | John McNamara   |    |
-| 1530 - 1600 | <a href="{{ site.url }}/articles/rebecca-hoyle/" style="color:#008000;" >Rebecca Hoyle</a>   | Modelling social influence on cooperation: the public goods game on a multiplex network   |
+| 1500 - 1530 | <a href="{{ site.url }}/articles/rebecca-hoyle/" style="color:#008000;" >Rebecca Hoyle</a>   |  Modelling social influence on cooperation: the public goods game on a multiplex network   |
+| 1530 - 1600 |  John McNamara  |   |
 | 1600 - 1700 | Refreshments & Posters   | Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
-| 1730 -    | Evening walk - Dinner and Discussion   | at Dörpskrog, Rathjensdorf   |
+| 1730 -    | Evening walk - Dinner and Discussion   | at <a href="http://www.doerpskrog-rathjensdorf.deDörpskrog" style="color:#008000;" >Dörpskrog, Rathjensdorf </a>  |
 |----
 {: .table}
 
