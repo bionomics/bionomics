@@ -55,7 +55,7 @@ Presentation Tools
 |    ├── HDMI
 |    ├── VGA
 ├── Poster arrangements
-|    ├── Portrait orientation poster boards (size soon!!)
+|    ├── Portrait orientation poster boards - 139 cm (height) x 102 cm (width)
 |    ├── Pins/Stickers will be provided
 ```
 
