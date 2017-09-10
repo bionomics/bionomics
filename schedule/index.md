@@ -32,7 +32,7 @@ image:
 | 1250 - 1300 | Welcome address   |    |
 | 1300 - 1400 | <a href="{{ site.url }}/articles/claire-spottiswoode/" style="color:#a52a2a;" >Claire Spottiswoode</a>   |    |
 | 1400 - 1430 | <a href="{{ site.url }}/articles/ronald-noe/" style="color:#008000;" >Ronald Noë</a>  |  What makes mutualisms markets?  |
-| 1430 - 1500 | <a href="{{ site.url }}/articles/charles-mullon/" style="color:#008000;" >Charles Mullon</a>   |    |
+| 1430 - 1500 | <a href="{{ site.url }}/articles/charles-mullon/" style="color:#008000;" >Charles Mullon</a>   |  The evolution of inter-species interactions under limited dispersal  |
 | 1500 - 1530 | Refreshments   |    |
 | 1530 - 1600 | <a href="{{ site.url }}/articles/judie-bronstein/" style="color:#008000;" >Judith Bronstein</a>  | Ecology and evolution of the costs of mutualism   |
 | 1600 - 1630 | <a href="{{ site.url }}/articles/aniek-ivens/" style="color:#008000;" >Aniek Ivens</a>   | A network approach to understanding mutualism evolution and stability   |
