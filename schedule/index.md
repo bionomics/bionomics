@@ -37,7 +37,7 @@ image:
 | 1530 - 1600 | <a href="{{ site.url }}/articles/judie-bronstein/" style="color:#008000;" >Judith Bronstein</a>  | Ecology and evolution of the costs of mutualism   |
 | 1600 - 1630 | <a href="{{ site.url }}/articles/aniek-ivens/" style="color:#008000;" >Aniek Ivens</a>   | A network approach to understanding mutualism evolution and stability   |
 | 1630 - 1700 | <a href="{{ site.url }}/articles/rebecca-batstone/" style="color:#008000;" >Rebecca Batstone</a>   | The evolution of symbiont preference traits in the model legume *Medicago truncatula*   |
-| 1700 - 1730 |  Poster setup  |    Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
+| 1700 - 1730 |  Poster setup  |    Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
 | 1830 -  | Dinner   | at MPI   |
 |----
 {: .table}
@@ -55,7 +55,7 @@ image:
 | 1400 - 1500 | <a href="{{ site.url }}/articles/olivia-roth/" style="color:#a52a2a;" >Olivia Roth</a>  |    |
 | 1500 - 1530 | <a href="{{ site.url }}/articles/rebecca-hoyle/" style="color:#008000;" >Rebecca Hoyle</a>   |  Modelling social influence on cooperation: the public goods game on a multiplex network   |
 | 1530 - 1600 |  John McNamara  |   |
-| 1600 - 1700 | Refreshments & Posters   | Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
+| 1600 - 1700 | Refreshments & Posters   | Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki  |
 | 1730 -    | Evening walk - Dinner and Discussion   | at <a href="http://www.doerpskrog-rathjensdorf.de" style="color:#008000;" >Dörpskrog, Rathjensdorf </a>  |
 |----
 {: .table}
