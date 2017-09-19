@@ -36,7 +36,7 @@ image:
 | 1500 - 1530 | Refreshments   |    |
 | 1530 - 1600 | <a href="{{ site.url }}/articles/judie-bronstein/" style="color:#008000;" >Judith Bronstein</a>  | Ecology and evolution of the costs of mutualism   |
 | 1600 - 1630 | <a href="{{ site.url }}/articles/aniek-ivens/" style="color:#008000;" >Aniek Ivens</a>   | A network approach to understanding mutualism evolution and stability   |
-| 1630 - 1700 | <a href="{{ site.url }}/articles/jessica-barker/" style="color:#008000;" >Jessica Barker</a>   | Temporal structure in mutualism: what does the timing of exploitation tell us about its cost?   |
+| 1630 - 1700 | <a href="{{ site.url }}/articles/rebecca-batstone/" style="color:#008000;" >Rebecca Batstone</a>   | The evolution of symbiont preference traits in the model legume *Medicago truncatula*   |
 | 1700 - 1730 |  Poster setup  |    Rebecca Batstone, Alexandra Brown, Félix Geoffroy, Jason Laurich, Clàudia Payrató Borras, Michael Schöner, Zegni Triki |
 | 1830 -  | Dinner   | at MPI   |
 |----
