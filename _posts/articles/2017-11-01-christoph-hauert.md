@@ -2,7 +2,7 @@
 layout: post
 title: Christoph Hauert
 affil: (University of British Columbia)
-excerpt: "Title of talk"
+excerpt: "Asymmetric interactions within and between species"
 categories: articles
 tags: [short-talk]
 comments: true
@@ -16,7 +16,7 @@ Vancouver, Canada.
 
 ---
 
-### Title
+### Asymmetric interactions within and between species
 
 
 
