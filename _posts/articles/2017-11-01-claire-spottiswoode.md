@@ -18,6 +18,16 @@ BBSRC David Phillips Research Fellow, Cambridge.
 
 ### The natural history of a human-animal mutualism
 
+Claire Spottiswoode<sup>1,2</sup>, David Lloyd-Jones<sup>1</sup>, and Brian Wood<sup>3,4</sup>
+
+<sup>1</sup> FitzPatrick Institute of African Ornithology, University of Cape Town, South Africa
+
+<sup>2</sup> Department of Zoology, University of Cambridge, UK
+
+<sup>3</sup> Department of Anthropology, University of California, Los Angeles, USA
+
+<sup>4</sup> Department of Human Behavior, Ecology and Culture, Max Planck Institute for Evolutionary Anthropology, Germany
+
 <!-- Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam. -->
 
 ![Smithsonian Image]({{ site.url }}/images/claire-spottiswoode.jpg)
