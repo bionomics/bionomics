@@ -67,7 +67,7 @@ image:
 | 0900 - 1000 |  <a href="{{ site.url }}/articles/michelle-afkhami/" style="color:#a52a2a;" >Michelle Afkhami </a>  |  Scaling down and scaling up from mutualistic effects on fitness  |
 | 1000 - 1030 | <a href="{{ site.url }}/articles/gergely-boza/" style="color:#008000;" >Gergely Boza</a>   | The evolution of conditional and context-dependent investments in mutualisms   |
 | 1030 - 1100 | Refreshments   |   |
-| 1100 - 1130 | Naomi Pierce   |  tba  |
+| 1100 - 1130 | <a href="{{ site.url }}/articles/naomi-pierce/" style="color:#008000;" >Naomi Pierce</a>   |  tba  |
 | 1130 - 1200 | <a href="{{ site.url }}/articles/andres-quinones/" style="color:#008000;" >Andrés Quiñones</a>   | Modelling learning processes in the cleaner wrasse mutualism |
 | 1200 - 1230 | <a href="{{ site.url }}/articles/redouan-bshary/" style="color:#008000;" >Redouan Bshary</a>  | Biological markets in cleaning mutualism revisited |
 | 1230 - 1400 | Lunch   | at MPI |
