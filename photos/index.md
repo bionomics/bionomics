@@ -11,7 +11,7 @@ image:
 
 
 <figure class="third">
-  <a href="{{ site.url }}/images/faust/TNT5337.jpg"><img src="{{ site.url }}/images/faust/TNT5337.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/IMG_0895.jpg"><img src="{{ site.url }}/images/IMG_0895.jpg" alt=""></a>
   <a href="{{ site.url }}/images/faust/TNT5340.jpg"><img src="{{ site.url }}/images/faust/TNT5340.jpg" alt=""></a>
   <a href="{{ site.url }}/images/faust/TNT5341.jpg"><img src="{{ site.url }}/images/faust/TNT5341.jpg" alt=""></a>
   <a href="{{ site.url }}/images/faust/TNT5343.jpg"><img src="{{ site.url }}/images/faust/TNT5343.jpg" alt=""></a>
