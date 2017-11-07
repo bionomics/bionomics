@@ -57,18 +57,4 @@ image:
   <a href="{{ site.url }}/images/faust/TNT5464.jpg"><img src="{{ site.url }}/images/faust/TNT5464.jpg" alt=""></a>
   <a href="{{ site.url }}/images/faust/TNT5473.jpg"><img src="{{ site.url }}/images/faust/TNT5473.jpg" alt=""></a>
   <a href="{{ site.url }}/images/faust/TNT5476.jpg"><img src="{{ site.url }}/images/faust/TNT5476.jpg" alt=""></a>
- <figcaption>Colours follow... </figcaption>
-</figure>
-
-
-> Photography is like a moment, an instant. You need a half-second to get the photo. So it's good to capture people when they are themselves.  
--- Patrick Demarchelier
-
-<figure class="third">
-  <a href="{{ site.url }}/images/col_eutin.jpg"><img src="{{ site.url }}/images/col_eutin.jpg" alt=""></a>
-  <a href="{{ site.url }}/images/Rfocus.jpg"><img src="{{ site.url }}/images/Rfocus.jpg" alt=""></a>
-  <a href="{{ site.url }}/images/col_mitimiti.jpg"><img src="{{ site.url }}/images/col_mitimiti.jpg" alt=""></a>
-  <a href="{{ site.url }}/images/col_dunes.jpg"><img src="{{ site.url }}/images/col_dunes.jpg" alt=""></a>
-  <a href="{{ site.url }}/images/col_wharariki.jpg"><img src="{{ site.url }}/images/col_wharariki.jpg" alt=""></a>
- <figcaption>...</figcaption>
 </figure>
